@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Selection Result</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+        }
+        h1 {
+            color: #333;
+            margin-top: 50px;
+        }
+        p {
+            font-size: 1.5em;
+            color: #555;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Selection Result</h1>
+    <div>
+		<h2 id="word"> Chapter: <span th:text="${chapter}"></span></h2>
+		<p id="japanese"> Direction: <span th:text="${direction}"></span> </p>
+		<p id="example"> Size: <span th:text="${size}"></span> </p>
+		<button onclick="fetchRandomWord()">次の問題</button>
+	</div>
+	
+	<script>
+		function fetchRandomWord() {
+    		fetch('/words/random')
+				.then(response => response.json())
+				.then(data => {
+					document.getElementById('word').innerText = data.english;
+					document.getElementById('japanese').innerText = data.japanese;
+					document.getElementById('example').innerText = data.example;
+				})
+				.catch(error => console.error('Error:', error));
+		}
+	</script>
+</body>
+</html>

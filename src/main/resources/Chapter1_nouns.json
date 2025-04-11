@@ -1,0 +1,1090 @@
+
+{
+    "list": [
+        {
+            "english": "result",
+            "example": "テストの結果 \n the result of the test",
+            "japanese": "結果"
+        },
+        {
+            "english": "experience",
+            "example": "すばらしい経験をする \n have a wonderful experience",
+            "japanese": "経験, 体験"
+        },
+        {
+            "english": "society",
+            "example": "現代社会の問題 \n the problems of modern society",
+            "japanese": "社会"
+        },
+        {
+            "english": "trouble",
+            "example": "仕事を見つけるのに苦労する \n have trouble finding a job",
+            "japanese": "悩み, 苦悩"
+        },
+        {
+            "english": "value",
+            "example": "教育に高い価値をおく \n put a high value on education",
+            "japanese": "価値"
+        },
+        {
+            "english": "effect",
+            "example": "二酸化炭素の温室効果 \n the greenhouse effect of CO2",
+            "japanese": "効果, 影響, 結果"
+        },
+        {
+            "english": "individual",
+            "example": "社会の中の個人 \n individuals in society",
+            "japanese": "個人"
+        },
+        {
+            "english": "influence",
+            "example": "子どもに悪い影響を与える \n have a bad influence on children",
+            "japanese": "影響(力)"
+        },
+        {
+            "english": "context",
+            "example": "この文脈における意味 \n the meaning in this context",
+            "japanese": "文脈, (文化・社会的な)状況"
+        },
+        {
+            "english": "rate",
+            "example": "年40%の割合で \n at the rate of 40% a year",
+            "japanese": "割合, 速度"
+        },
+        {
+            "english": "sign",
+            "example": "春の兆し \n a sign of spring",
+            "japanese": "印, 兆候"
+        },
+        {
+            "english": "service",
+            "example": "水道とガスの公共事業 \n water and gas service",
+            "japanese": "公共事業, 業務"
+        },
+        {
+            "english": "advance",
+            "example": "科学技術の進歩 \n advances in technology",
+            "japanese": "前進, 進歩"
+        },
+        {
+            "english": "officer",
+            "example": "警察官 \n a police officer",
+            "japanese": "役人"
+        },
+        {
+            "english": "material",
+            "example": "新しい物質を作る \n produce new materials",
+            "japanese": "物質"
+        },
+        {
+            "english": "industry",
+            "example": "重工業の中心地 \n a center of heavy industry",
+            "japanese": "工業"
+        },
+        {
+            "english": "attempt",
+            "example": "記録を破ろうとする試み \n an attempt to break the record",
+            "japanese": "試み"
+        },
+        {
+            "english": "trade",
+            "example": "アメリカとフランスの貿易 \n US trade with France",
+            "japanese": "貿易"
+        },
+        {
+            "english": "progress",
+            "example": "君の英語は進歩した \n You've made progress in English",
+            "japanese": "進歩, 前進"
+        },
+        {
+            "english": "excuse",
+            "example": "早く帰るための言い訳をする \n make an excuse to leave early",
+            "japanese": "言い訳"
+        },
+        {
+            "english": "custom",
+            "example": "チップを払う習慣 \n the custom of tipping",
+            "japanese": "(社会的な)習慣, 税関"
+        },
+        {
+            "english": "passage",
+            "example": "次の一節を読みなさい \n Read the following passage",
+            "japanese": "一節, (時の)経過, 通行"
+        },
+        {
+            "english": "economy",
+            "example": "市場経済 \n the market economy",
+            "japanese": "経済"
+        },
+        {
+            "english": "range",
+            "example": "広範囲の情報 \n a wide range of information",
+            "japanese": "範囲"
+        },
+        {
+            "english": "traffic",
+            "example": "交通事故 \n a traffic accident",
+            "japanese": "交通(量)"
+        },
+        {
+            "english": "official",
+            "example": "政府の役人 \n a government official",
+            "japanese": "役人"
+        },
+        {
+            "english": "sight",
+            "example": "一目ぼれ \n love at first sight",
+            "japanese": "見ること, 光景, 視力"
+        },
+        {
+            "english": "taste",
+            "example": "レモンの味 \n a taste of lemon",
+            "japanese": "味, 好み"
+        },
+        {
+            "english": "immigrant",
+            "example": "メキシコからの移民 \n immigrants from Mexico",
+            "japanese": "(外国からの)移民"
+        },
+        {
+            "english": "neighbor",
+            "example": "自分を愛するように隣人を愛せ \n Love your neighbor as yourself",
+            "japanese": "近所の人"
+        },
+        {
+            "english": "patient",
+            "example": "医者と患者 \n a doctor and a patient",
+            "japanese": "患者"
+        },
+        {
+            "english": "project",
+            "example": "事業計画 \n a business project",
+            "japanese": "計画"
+        },
+        {
+            "english": "favor",
+            "example": "頼みを聴いてもらえませんか \n Would you ask me a favor?",
+            "japanese": "好意, 親切"
+        },
+        {
+            "english": "appearance",
+            "example": "外見が違う \n differ in appearance",
+            "japanese": "外見, 様子, 出現"
+        },
+        {
+            "english": "risk",
+            "example": "死の危険を冒す \n run the risk of death",
+            "japanese": "危険"
+        },
+        {
+            "english": "benefit",
+            "example": "仕事のコストと利益 \n costs and benefits of the business",
+            "japanese": "利益"
+        },
+        {
+            "english": "feature",
+            "example": "人類の言語の特徴 \n features of human language",
+            "japanese": "特徴"
+        },
+        {
+            "english": "relative",
+            "example": "彼らの親戚と友達 \n their relatives and friends",
+            "japanese": "(家族を含んだ)親族, 親戚"
+        },
+        {
+            "english": "region",
+            "example": "山岳地方 \n a mountain region",
+            "japanese": "地域"
+        },
+        {
+            "english": "characteristic",
+            "example": "ユニークな特徴 \n unique characteristics",
+            "japanese": "特徴"
+        },
+        {
+            "english": "pain",
+            "example": "鋭い痛みを感じる \n feel a sharp pain",
+            "japanese": "苦痛"
+        },
+        {
+            "english": "kid",
+            "example": "二人の子供がいる家庭 \n a family with two kids",
+            "japanese": "子ども"
+        },
+        {
+            "english": "occasion",
+            "example": "特別な場合に \n on special occasions",
+            "japanese": "場合"
+        },
+        {
+            "english": "principle",
+            "example": "自由貿易の原則 \n the principle of free trade",
+            "japanese": "原理, 原則"
+        },
+        {
+            "english": "department",
+            "example": "歴史学科 \n the history department",
+            "japanese": "(組織の)部門, (大学などの)学科"
+        },
+        {
+            "english": "duty",
+            "example": "君を助けるのが私の義務だ \n It is my duty to help you",
+            "japanese": "義務, 関税"
+        },
+        {
+            "english": "scene",
+            "example": "事故の現場 \n the scene of the accident",
+            "japanese": "場面, 現場"
+        },
+        {
+            "english": "basis",
+            "example": "彼の理論の科学的根拠 \n the scientific basis of his theory",
+            "japanese": "起訴, 根拠, 方式, やり方"
+        },
+        {
+            "english": "spirit",
+            "example": "フェアプレーの精神 \n the spirit of fair play",
+            "japanese": "精神"
+        },
+        {
+            "english": "medium",
+            "example": "コミュニケーションの手段 \n the medium of communication",
+            "japanese": "手段"
+        },
+        {
+            "english": "mass",
+            "example": "大量生産 \n mass production",
+            "japanese": "一般大衆, 多くのA"
+        },
+        {
+            "english": "audience",
+            "example": "大勢の観客を集める \n gather a large audience",
+            "japanese": "(集合的に)聴衆, 観客"
+        },
+        {
+            "english": "element",
+            "example": "最も重要な要素 \n the most important element",
+            "japanese": "要素, 元素"
+        },
+        {
+            "english": "climate",
+            "example": "地球規模の気候変動 \n global climate change",
+            "japanese": "気候"
+        },
+        {
+            "english": "revolution",
+            "example": "フランス革命 \n the French Revolution",
+            "japanese": "革命"
+        },
+        {
+            "english": "quarter",
+            "example": "今世紀の最初の4分の1 \n the first quarter of this century",
+            "japanese": "4分の1"
+        },
+        {
+            "english": "conflict",
+            "example": "二国間の対立 \n a conflict betweeen two countries",
+            "japanese": "(意見・利害の)対立"
+        },
+        {
+            "english": "flood",
+            "example": "情報の洪水 \n a flood of information",
+            "japanese": "洪水"
+        },
+        {
+            "english": "atmosphere",
+            "example": "地球の大気中の二酸化炭素 \n CO2 in the earth's atmosphere",
+            "japanese": "大気, 雰囲気"
+        },
+        {
+            "english": "property",
+            "example": "私有財産 \n private property",
+            "japanese": "財産"
+        },
+        {
+            "english": "reward",
+            "example": "努力の報酬 \n a reward for hard work",
+            "japanese": "報酬"
+        },
+        {
+            "english": "security",
+            "example": "国家の安全保障 \n national security",
+            "japanese": "安全"
+        },
+        {
+            "english": "delight",
+            "example": "喜びの声をあげる \n give a cry of delight",
+            "japanese": "大喜び"
+        },
+        {
+            "english": "desert",
+            "example": "砂漠で友人を見捨てる \n desert a friend in the friend",
+            "japanese": "砂漠"
+        },
+        {
+            "english": "background",
+            "example": "経歴の違う人々 \n people from different backgrounds",
+            "japanese": "背景, 生い立ち, 経歴"
+        },
+        {
+            "english": "trend",
+            "example": "少子化の傾向 \n a trend toward fewer children",
+            "japanese": "傾向"
+        },
+        {
+            "english": "grade",
+            "example": "私は七年生(=中一)です \n I am in the seventh grade",
+            "japanese": "(小中高通じての)学年, 成績"
+        },
+        {
+            "english": "impact",
+            "example": "環境に対する悪い影響 \n a negative impact on the environment",
+            "japanese": "影響, 衝撃"
+        },
+        {
+            "english": "institution",
+            "example": "教育機関 \n educational institutions",
+            "japanese": "機関, 制度"
+        },
+        {
+            "english": "interaction",
+            "example": "他人との社会的交流 \n social interaction with others",
+            "japanese": "(人と人との)交流"
+        },
+        {
+            "english": "alternative",
+            "example": "石油の代わりになるもの \n an alternative to oil",
+            "japanese": "代わりのもの"
+        },
+        {
+            "english": "harm",
+            "example": "子どもに害を与えない \n do no harm to children",
+            "japanese": "害"
+        },
+        {
+            "english": "agency",
+            "example": "旅行代理店に行く \n go to a travel agency",
+            "japanese": "(政治的)機関, 代理店"
+        },
+        {
+            "english": "capacity",
+            "example": "すばらしい人間の学習能力 \n man's great capacity to learn",
+            "japanese": "能力"
+        },
+        {
+            "english": "minister",
+            "example": "イタリアの外務大臣 \n the Italian foreign minister",
+            "japanese": "大臣"
+        },
+        {
+            "english": "volunteer",
+            "example": "病院で働くボランティア \n a hospital volunteer",
+            "japanese": "ボランティア"
+        },
+        {
+            "english": "access",
+            "example": "インターネットを利用できる \n have access to the Internet",
+            "japanese": "利用する権利"
+        },
+        {
+            "english": "quantity",
+            "example": "膨大な量のデータ \n large quantities of data",
+            "japanese": "量"
+        },
+        {
+            "english": "branch",
+            "example": "科学の一分野 \n a branch of science",
+            "japanese": "枝, 支店, 支局, (学問の)部門, 分野"
+        },
+        {
+            "english": "laughter",
+            "example": "笑いは最高の良薬だ \n Laughter is the best medicine",
+            "japanese": "笑い"
+        },
+        {
+            "english": "transport",
+            "example": "航空輸送 \n air transport",
+            "japanese": "交通機関, 輸送"
+        },
+        {
+            "english": "vote",
+            "example": "20%の票を得る \n get 20% of the vote",
+            "japanese": "投票"
+        },
+        {
+            "english": "resident",
+            "example": "ニューヨークの住民 \n residents of New York",
+            "japanese": "住民"
+        },
+        {
+            "english": "square",
+            "example": "20平方マイル \n 20 square miles",
+            "japanese": "正方形, (面積の単位)平方"
+        },
+        {
+            "english": "situation",
+            "example": "希望のない状況で \n in a hopeless situation",
+            "japanese": "状況, 事態, 立場"
+        },
+        {
+            "english": "government",
+            "example": "日本政府 \n the Japanese government",
+            "japanese": "政府, 政治"
+        },
+        {
+            "english": "knowledge",
+            "example": "英語の知識がほとんどない \n have little knowledge of English",
+            "japanese": "知識"
+        },
+        {
+            "english": "nation",
+            "example": "アジアの諸国 \n the Asian nations",
+            "japanese": "国, 国家, 国民"
+        },
+        {
+            "english": "effort",
+            "example": "彼を助けようと努力する \n make an effort to help him",
+            "japanese": "努力"
+        },
+        {
+            "english": "period",
+            "example": "冷戦時代 \n the Cold War period",
+            "japanese": "時代, 期間"
+        },
+        {
+            "english": "population",
+            "example": "人口の増加 \n population growth",
+            "japanese": "人口, 住民, (動物の)個体数"
+        },
+        {
+            "english": "purpose",
+            "example": "平和的な目的で \n for peaceful purposes",
+            "japanese": "目的"
+        },
+        {
+            "english": "behavior",
+            "example": "人間の行動を研究する \n study human behavior",
+            "japanese": "行動"
+        },
+        {
+            "english": "lack",
+            "example": "食料不足 \n lack of food",
+            "japanese": "不足"
+        },
+        {
+            "english": "skill",
+            "example": "基本的な技術を学ぶ \n learn basic skills",
+            "japanese": "技術"
+        },
+        {
+            "english": "quality",
+            "example": "CDの音質 \n the sound quality of the CD",
+            "japanese": "質, 性質"
+        },
+        {
+            "english": "environment",
+            "example": "自然環境 \n the natural environment",
+            "japanese": "環境"
+        },
+        {
+            "english": "role",
+            "example": "重要な役割を果たす \n play an important role",
+            "japanese": "役割"
+        },
+        {
+            "english": "attitude",
+            "example": "人生に対する前向きな態度 \n a positive attitude toward life",
+            "japanese": "態度, 考え方, 姿勢"
+        },
+        {
+            "english": "author",
+            "example": "この文章の筆者 \n the author of this passage",
+            "japanese": "著者, 筆者"
+        },
+        {
+            "english": "research",
+            "example": "科学的な研究 \n scientific research",
+            "japanese": "研究, 調査"
+        },
+        {
+            "english": "opportunity",
+            "example": "彼女と話す機会 \n an opportunity to talk to her",
+            "japanese": "機会"
+        },
+        {
+            "english": "source",
+            "example": "情報源 \n a source of information",
+            "japanese": "源, 出所"
+        },
+        {
+            "english": "disease",
+            "example": "心臓病で死ぬ \n die of heart disease",
+            "japanese": "病気"
+        },
+        {
+            "english": "shape",
+            "example": "彼女の鼻の形 \n the shape of her nose",
+            "japanese": "形"
+        },
+        {
+            "english": "advantage",
+            "example": "背が高いという利点 \n the advantage of being tall",
+            "japanese": "利点, 有利"
+        },
+        {
+            "english": "method",
+            "example": "英語を教える方法 \n a method of teaching English",
+            "japanese": "方法"
+        },
+        {
+            "english": "habit",
+            "example": "ベッドで本を読む習慣がある \n be in the habit of reading in bed",
+            "japanese": "習慣, くせ"
+        },
+        {
+            "english": "detail",
+            "example": "話を細部まで覚えている \n remember details of the story",
+            "japanese": "詳細, 細部"
+        },
+        {
+            "english": "distance",
+            "example": "長距離電話をかける \n make a long-distance call",
+            "japanese": "距離"
+        },
+        {
+            "english": "crowd",
+            "example": "大群衆が集まった \n A large crowd gathered",
+            "japanese": "群衆"
+        },
+        {
+            "english": "clothes",
+            "example": "服を着替えなさい \n Change your clothes",
+            "japanese": "服, 衣服"
+        },
+        {
+            "english": "instance",
+            "example": "最もよく知られた例 \n the best known instance",
+            "japanese": "例, 場合"
+        },
+        {
+            "english": "desire",
+            "example": "歌手になりたいという強い願望 \n a strong desire to be a singer",
+            "japanese": "願望, 欲望"
+        },
+        {
+            "english": "standard",
+            "example": "生活水準 \n the standard of living",
+            "japanese": "水準, 基準, 標準"
+        },
+        {
+            "english": "technology",
+            "example": "高度な科学技術 \n high technology",
+            "japanese": "科学技術"
+        },
+        {
+            "english": "generation",
+            "example": "未来の世代のために \n for future generations",
+            "japanese": "世代"
+        },
+        {
+            "english": "responsibility",
+            "example": "自己の責任をとる \n take responsibility for the accident",
+            "japanese": "責任"
+        },
+        {
+            "english": "task",
+            "example": "難しい仕事 \n a difficult task",
+            "japanese": "仕事"
+        },
+        {
+            "english": "experiment",
+            "example": "動物を用いる実験 \n experiments with animals",
+            "japanese": "実験"
+        },
+        {
+            "english": "evidence",
+            "example": "火星に生物がいるという証拠 \n evidence of life on Mars",
+            "japanese": "証拠"
+        },
+        {
+            "english": "decade",
+            "example": "ほんの10年前に \n only a decade ago",
+            "japanese": "10年"
+        },
+        {
+            "english": "loss",
+            "example": "5,000ドルの損失 \n a loss of $5,000",
+            "japanese": "損失"
+        },
+        {
+            "english": "aspect",
+            "example": "日本文化のユニークな側面 \n unique aspects of Japanese culture",
+            "japanese": "側面, 様相"
+        },
+        {
+            "english": "theory",
+            "example": "相対性理論 \n the theory of relativity",
+            "japanese": "理論"
+        },
+        {
+            "english": "statement",
+            "example": "次の記述を読む \n read the following statement",
+            "japanese": "記述, 言葉, 声明"
+        },
+        {
+            "english": "professor",
+            "example": "ボストン大学の教授 \n a professor at Boston University",
+            "japanese": "教授"
+        },
+        {
+            "english": "function",
+            "example": "コンピュータの基本的機能 \n the basic functions of a computer",
+            "japanese": "機能, 役割"
+        },
+        {
+            "english": "surface",
+            "example": "地球の表面 \n the surface of the earth",
+            "japanese": "表面"
+        },
+        {
+            "english": "factor",
+            "example": "成功の重要な要素 \n an important factor in success",
+            "japanese": "要因, 要素"
+        },
+        {
+            "english": "organization",
+            "example": "国際的な組織 \n an international organization",
+            "japanese": "組織, 機関, 団体"
+        },
+        {
+            "english": "policy",
+            "example": "日本の外交政策 \n Japan's foreign policy",
+            "japanese": "政策, 方針"
+        },
+        {
+            "english": "resource",
+            "example": "天然資源 \n natural resources",
+            "japanese": "資源, 財源, 手段"
+        },
+        {
+            "english": "contrast",
+            "example": "光と影の対比 \n the contrast between light and shadow",
+            "japanese": "対比, 差異"
+        },
+        {
+            "english": "brain",
+            "example": "脳死 \n brain death",
+            "japanese": "脳, 知能"
+        },
+        {
+            "english": "customer",
+            "example": "店に客を引きつける \n attract customers to the store",
+            "japanese": "客"
+        },
+        {
+            "english": "goods",
+            "example": "商品の売り買い \n buying and selling goods",
+            "japanese": "商品, 品物"
+        },
+        {
+            "english": "creature",
+            "example": "人間と他の動物 \n humans and other creatures",
+            "japanese": "動物"
+        },
+        {
+            "english": "structure",
+            "example": "社会構造の変化 \n changes in social structure",
+            "japanese": "構造"
+        },
+        {
+            "english": "tradition",
+            "example": "歴史と伝統 \n history and tradition",
+            "japanese": "伝統, 慣習, 言い伝え"
+        },
+        {
+            "english": "weight",
+            "example": "体重を減らす \n lose weight",
+            "japanese": "体重, 重さ"
+        },
+        {
+            "english": "labor",
+            "example": "重労働を行う \n do hard labor",
+            "japanese": "労働, 骨折り, 努力"
+        },
+        {
+            "english": "citizen",
+            "example": "平均的アメリカ市民 \n the average American citizen",
+            "japanese": "市民, 国民"
+        },
+        {
+            "english": "impression",
+            "example": "彼によい印象を与える \n make a good impression on him",
+            "japanese": "印象"
+        },
+        {
+            "english": "species",
+            "example": "多くの種の鳥 \n many species of birds",
+            "japanese": "種"
+        },
+        {
+            "english": "career",
+            "example": "女優としての長い経歴 \n a long career as an actress",
+            "japanese": "経歴, (専門的な)職業"
+        },
+        {
+            "english": "concept",
+            "example": "時間の概念 \n the concept of time",
+            "japanese": "概念"
+        },
+        {
+            "english": "passenger",
+            "example": "列車の乗客 \n train passengers",
+            "japanese": "乗客"
+        },
+        {
+            "english": "crime",
+            "example": "凶悪犯罪の発生率 \n the violent crime rate",
+            "japanese": "犯罪"
+        },
+        {
+            "english": "income",
+            "example": "低所得の家族 \n low-income families",
+            "japanese": "所得, 収入"
+        },
+        {
+            "english": "temperature",
+            "example": "パリの平均気温 \n the average temperature in Paris",
+            "japanese": "気温, 温度, 体温"
+        },
+        {
+            "english": "majority",
+            "example": "大多数の学生 \n the majority of students",
+            "japanese": "大多数"
+        },
+        {
+            "english": "origin",
+            "example": "言語の起源 \n the origin of language",
+            "japanese": "起源, 生まれ, 出身"
+        },
+        {
+            "english": "literature",
+            "example": "英文学を研究する \n study English literature",
+            "japanese": "文学"
+        },
+        {
+            "english": "equipment",
+            "example": "医療設備 \n medical equipment",
+            "japanese": "設備, 用具, 機器"
+        },
+        {
+            "english": "stranger",
+            "example": "見知らぬ人に話しかける \n talk to a stranger",
+            "japanese": "見知らぬ人, (場所に)不案内な人"
+        },
+        {
+            "english": "strength",
+            "example": "強さと弱さ \n strength and weakness",
+            "japanese": "強さ"
+        },
+        {
+            "english": "planet",
+            "example": "地球という惑星 \n the planet Earth",
+            "japanese": "惑星"
+        },
+        {
+            "english": "circumstance",
+            "example": "いかなる状況においても \n under any circumstances",
+            "japanese": "状況, 周囲の事情"
+        },
+        {
+            "english": "religion",
+            "example": "科学と宗教 \n science and religion",
+            "japanese": "宗教"
+        },
+        {
+            "english": "pollution",
+            "example": "環境汚染 \n environmental pollution",
+            "japanese": "汚染"
+        },
+        {
+            "english": "wealth",
+            "example": "富と権力 \n wealth and power",
+            "japanese": "富, 財産"
+        },
+        {
+            "english": "civilization",
+            "example": "西洋文明 \n Western civilization",
+            "japanese": "文明"
+        },
+        {
+            "english": "profit",
+            "example": "200万ドルのもうけを得る \n make a $2 million profit",
+            "japanese": "もうけ, 利益"
+        },
+        {
+            "english": "technique",
+            "example": "映画作りの技術 \n the technique of film-making",
+            "japanese": "技術"
+        },
+        {
+            "english": "emotion",
+            "example": "感情を表現する \n express emotions",
+            "japanese": "感情"
+        },
+        {
+            "english": "phenomenon",
+            "example": "自然現象 \n a natural phenomenon",
+            "japanese": "現象"
+        },
+        {
+            "english": "cancer",
+            "example": "皮膚がんで死ぬ \n die of skin cancer",
+            "japanese": "がん"
+        },
+        {
+            "english": "bottom",
+            "example": "海の底で \n at the bottom of the sea",
+            "japanese": "底"
+        },
+        {
+            "english": "billion",
+            "example": "八十億の人々 \n 8 billion people",
+            "japanese": "十億"
+        },
+        {
+            "english": "status",
+            "example": "女性の社会的地位 \n the social status of women",
+            "japanese": "地位, 身分"
+        },
+        {
+            "english": "youth",
+            "example": "現代の若者 \n modern youth",
+            "japanese": "若者, 青年期, 若さ"
+        },
+        {
+            "english": "confidence",
+            "example": "自分の能力に自信がある \n have confidence in my ability",
+            "japanese": "自信, 信頼"
+        },
+        {
+            "english": "edge",
+            "example": "太平洋の周辺 \n the edge of the Pacific Ocean",
+            "japanese": "周辺, ふち, (町などの)はずれ"
+        },
+        {
+            "english": "household",
+            "example": "家庭用品 \n household goods",
+            "japanese": "家庭"
+        },
+        {
+            "english": "scholar",
+            "example": "偉大な学者 \n a great scholar",
+            "japanese": "学者"
+        },
+        {
+            "english": "survey",
+            "example": "新しい調査によると \n according to a new survey",
+            "japanese": "調査"
+        },
+        {
+            "english": "vocabulary",
+            "example": "5000語の語彙 \n a vocabulary of 5,000 words",
+            "japanese": "語彙"
+        },
+        {
+            "english": "enemy",
+            "example": "天敵 \n a natural enemy",
+            "japanese": "敵"
+        },
+        {
+            "english": "construction",
+            "example": "建設中の橋 \n a bridge under construction",
+            "japanese": "建設"
+        },
+        {
+            "english": "lecture",
+            "example": "歴史に関する講義 \n a lecture on history",
+            "japanese": "講義"
+        },
+        {
+            "english": "instruction",
+            "example": "彼の指示に従う \n follow his instructions",
+            "japanese": "指示, 教育"
+        },
+        {
+            "english": "crisis",
+            "example": "経済危機を乗り越える \n get over the economic crisis",
+            "japanese": "危機"
+        },
+        {
+            "english": "instrument",
+            "example": "医療器具 \n a medical instrument",
+            "japanese": "器具, 道具, 楽器"
+        },
+        {
+            "english": "crop",
+            "example": "さまざまな作物を育てる \n grow various crops",
+            "japanese": "作物, 収穫(量)"
+        },
+        {
+            "english": "weapon",
+            "example": "レーザー兵器 \n a laser weapon",
+            "japanese": "兵器, 武器"
+        },
+        {
+            "english": "device",
+            "example": "電子装置 \n an electronic device",
+            "japanese": "装置, 手段, 工夫"
+        },
+        {
+            "english": "path",
+            "example": "勝利への道 \n the path to victory",
+            "japanese": "道, 進路, 軌道"
+        },
+        {
+            "english": "earthquake",
+            "example": "地震を予知する \n predict earthquakes",
+            "japanese": "地震"
+        },
+        {
+            "english": "stream",
+            "example": "きれいな山の小川 \n a clear mountain stream",
+            "japanese": "小川, 流れ"
+        },
+        {
+            "english": "notion",
+            "example": "自由の概念 \n the notion of freedom",
+            "japanese": "概念, 考え"
+        },
+        {
+            "english": "substance",
+            "example": "危険な物質 \n a dangerous substance",
+            "japanese": "物質"
+        },
+        {
+            "english": "victim",
+            "example": "戦争の犠牲者 \n victims of the war",
+            "japanese": "犠牲者, 被害者, いけにえ"
+        },
+        {
+            "english": "fuel",
+            "example": "燃料を使い果たす \n run out of fuel",
+            "japanese": "燃料"
+        },
+        {
+            "english": "ancestor",
+            "example": "すべての人類の共通の祖先 \n the common ancestors of all humans",
+            "japanese": "祖先"
+        },
+        {
+            "english": "soil",
+            "example": "ナイル川の豊かな土壌 \n the rich soil of the Nile River",
+            "japanese": "土壌, 土, 土地"
+        },
+        {
+            "english": "debate",
+            "example": "教育についての討論 \n a debate on education",
+            "japanese": "討論"
+        },
+        {
+            "english": "violence",
+            "example": "テレビにおける暴力 \n violence on TV",
+            "japanese": "暴力, 激しさ"
+        },
+        {
+            "english": "colleague",
+            "example": "私の友人と同僚 \n my friends and colleagues",
+            "japanese": "同僚"
+        },
+        {
+            "english": "philosophy",
+            "example": "彼の人生哲学 \n his philosophy of life",
+            "japanese": "哲学, 人生観"
+        },
+        {
+            "english": "analysis",
+            "example": "DNAの分析 \n analysis of DNA",
+            "japanese": "分析"
+        },
+        {
+            "english": "universe",
+            "example": "宇宙の星 \n stars in the universe",
+            "japanese": "宇宙, 世界"
+        },
+        {
+            "english": "electricity",
+            "example": "電気で動く機械 \n a machine run by electricity",
+            "japanese": "電気"
+        },
+        {
+            "english": "insect",
+            "example": "アリのような社会性昆虫 \n social insects like ants",
+            "japanese": "昆虫"
+        },
+        {
+            "english": "disaster",
+            "example": "自然災害に備える \n prepare for natural disaster",
+            "japanese": "災害, 惨事, 災難"
+        },
+        {
+            "english": "storm",
+            "example": "激しい嵐 \n a heavy storm",
+            "japanese": "嵐"
+        },
+        {
+            "english": "plenty",
+            "example": "十分な時間 \n have plenty of time",
+            "japanese": "十分な, (肯定文で)たくさん, 多数, 多量"
+        },
+        {
+            "english": "agriculture",
+            "example": "農業に向いた土地 \n land suitable for agriculture",
+            "japanese": "農業"
+        },
+        {
+            "english": "gene",
+            "example": "目の色を決める遺伝子 \n the gene for eye color",
+            "japanese": "遺伝子"
+        },
+        {
+            "english": "advertising",
+            "example": "タバコの広告 \n tobacco advertising",
+            "japanese": "広告, 宣伝活動"
+        },
+        {
+            "english": "carbon",
+            "example": "二酸化炭素 \n carbon dioxide",
+            "japanese": "炭素"
+        },
+        {
+            "english": "infant",
+            "example": "母親と幼児の関係 \n the mother-infant relationship",
+            "japanese": "幼児"
+        },
+        {
+            "english": "evolution",
+            "example": "人類の進化 \n human evolution",
+            "japanese": "進化"
+        },
+        {
+            "english": "cell",
+            "example": "がん細胞を破壊する \n destroy cancer cells",
+            "japanese": "細胞, 電池"
+        },
+        {
+            "english": "aid",
+            "example": "イラクへの財政的援助 \n financial aid to Iraq",
+            "japanese": "援助"
+        },
+        {
+            "english": "consequence",
+            "example": "重大な結果を招く \n have serious consequences",
+            "japanese": "結果"
+        },
+        {
+            "english": "talent",
+            "example": "音楽の才能がある \n have musical talent",
+            "japanese": "才能, 才能のある人"
+        }
+    ]
+}

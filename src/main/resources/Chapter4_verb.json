@@ -1,0 +1,450 @@
+
+{
+    "list": [
+        {
+            "english": "proclaim",
+            "example": "日本は安全だと宣言する \n proclaim that Japan is safe",
+            "japanese": "~と宣言する, ~をはっきり示す"
+        },
+        {
+            "english": "smash",
+            "example": "ビンを粉々に砕く \n smash a bottle",
+            "japanese": "~を粉々に砕く, 衝突する, ~を衝突させる"
+        },
+        {
+            "english": "mourn",
+            "example": "ガンジーの死を悲しむ \n mourn Gandhi's death",
+            "japanese": "~を悲しむ, (人)の喪に服する"
+        },
+        {
+            "english": "summon",
+            "example": "警察を呼ぶ \n summon the police",
+            "japanese": "~を呼ぶ, (人)を呼び出す"
+        },
+        {
+            "english": "shatter",
+            "example": "窓を粉々にする \n shatter windows",
+            "japanese": "~を粉々にする, 粉々になる"
+        },
+        {
+            "english": "linger",
+            "example": "私の記憶に残る \n linger in my memory",
+            "japanese": "残る, (感情などが)なかなか消えない"
+        },
+        {
+            "english": "lament",
+            "example": "人生の短さを嘆く \n lament the shortness of life",
+            "japanese": "~を嘆く"
+        },
+        {
+            "english": "endow",
+            "example": "才能に恵まれる \n be endowed with a talent",
+            "japanese": "~を贈与する, ~を授ける"
+        },
+        {
+            "english": "rejoice",
+            "example": "成功を喜ぶ \n rejoice in the success",
+            "japanese": "喜ぶ"
+        },
+        {
+            "english": "whip",
+            "example": "馬をむち打つ \n whip a horse",
+            "japanese": "~をむち打つ"
+        },
+        {
+            "english": "slap",
+            "example": "彼の顔をピシャリと打つ \n slap his face",
+            "japanese": "~をピシャリと打つ"
+        },
+        {
+            "english": "contend",
+            "example": "地球があぶないと主張する \n contend that the earth is in danger",
+            "japanese": "~と主張する, 戦う"
+        },
+        {
+            "english": "swear",
+            "example": "二度と酒を飲まないと誓う \n swear never to drink again",
+            "japanese": "~と誓う, ~と断言する"
+        },
+        {
+            "english": "discern",
+            "example": "違いを識別することができる \n can discern the difference",
+            "japanese": "~を識別する"
+        },
+        {
+            "english": "degrade",
+            "example": "環境を悪化させる \n degrade the environment",
+            "japanese": "~を悪化させる"
+        },
+        {
+            "english": "erect",
+            "example": "障壁を築く \n erect barriers",
+            "japanese": "~を築く"
+        },
+        {
+            "english": "testify",
+            "example": "法廷で証言する \n testify in court",
+            "japanese": "証言する"
+        },
+        {
+            "english": "spur",
+            "example": "行動へと彼を駆り立てる \n spur him into action",
+            "japanese": "~を駆り立てる, ~に拍車をかける"
+        },
+        {
+            "english": "roam",
+            "example": "自由に街を歩き回る \n roam the streets freely",
+            "japanese": "~を歩き回る, ぶらつく, 放浪する"
+        },
+        {
+            "english": "chew",
+            "example": "食べ物をよくかむ \n chew food well",
+            "japanese": "かむ"
+        },
+        {
+            "english": "lure",
+            "example": "彼を部屋に誘い込む \n lure him into the room",
+            "japanese": "誘いこむ, ~を誘惑する"
+        },
+        {
+            "english": "defy",
+            "example": "重力に逆らう \n defy gravity",
+            "japanese": "~に逆らう"
+        },
+        {
+            "english": "stroll",
+            "example": "公園をぶらつく \n stroll in the park",
+            "japanese": "ぶらつく"
+        },
+        {
+            "english": "dispense",
+            "example": "車なしですますのは無理だ \n can't dispense with cars",
+            "japanese": "~なしですます"
+        },
+        {
+            "english": "reconcile",
+            "example": "宗教と科学を調和させる \n reconcile religion with science",
+            "japanese": "~を調和させる, ~を和解させる"
+        },
+        {
+            "english": "blur",
+            "example": "区別をぼやかす \n blur the distinction",
+            "japanese": "~をぼやかす, ぼやける"
+        },
+        {
+            "english": "soothe",
+            "example": "泣く子供をなだめる \n soothe a crying child",
+            "japanese": "~をなだめる, (苦痛)を和らげる"
+        },
+        {
+            "english": "impair",
+            "example": "アルコールは運転能力を低下させる \n Alcohol impairs driving ability",
+            "japanese": "~を低下させる, ~を害する"
+        },
+        {
+            "english": "comply",
+            "example": "基準に従う \n comply with the standards",
+            "japanese": "従う"
+        },
+        {
+            "english": "pierce",
+            "example": "耳に穴をあける \n pierce my ears",
+            "japanese": "~に穴をあける, ~を刺す"
+        },
+        {
+            "english": "stumble",
+            "example": "階段でつまずく \n stumble on the stairs",
+            "japanese": "つまずく"
+        },
+        {
+            "english": "hinder",
+            "example": "経済の発展をさまたげる \n hinder economic development",
+            "japanese": "~をさまたげる"
+        },
+        {
+            "english": "mock",
+            "example": "彼女の努力をあざける \n mock her efforts",
+            "japanese": "~をあざける"
+        },
+        {
+            "english": "embody",
+            "example": "アメリカンドリームを具現する \n embody the American dream",
+            "japanese": "~を具現する, ~を表現する"
+        },
+        {
+            "english": "insert",
+            "example": "穴に鍵を差し込む \n insert the key into the hole",
+            "japanese": "~を差し込む, (文など)を挿入する"
+        },
+        {
+            "english": "stalk",
+            "example": "獲物に忍び寄る \n stalk the prey",
+            "japanese": "~に忍び寄る"
+        },
+        {
+            "english": "clarify",
+            "example": "単語の意味を明らかにする \n clarify the meaning of the word",
+            "japanese": "~を明らかにする"
+        },
+        {
+            "english": "applaud",
+            "example": "観客が拍手する \n The audience applauds",
+            "japanese": "拍手する, ~をほめたたえる"
+        },
+        {
+            "english": "inflict",
+            "example": "人に苦痛を与える \n inflict pain on other people",
+            "japanese": "~を与える"
+        },
+        {
+            "english": "merge",
+            "example": "その会社と合併する \n merge with the company",
+            "japanese": "合併する"
+        },
+        {
+            "english": "reckon",
+            "example": "彼は正しいと考える \n reckon that he's right",
+            "japanese": "~と考える"
+        },
+        {
+            "english": "undone",
+            "example": "一度したことは元に戻らない \n What is done cannot be undone",
+            "japanese": "~元に戻る"
+        },
+        {
+            "english": "poke",
+            "example": "彼の目を突く \n poke him in the eye",
+            "japanese": "~を突く, ~をつつく"
+        },
+        {
+            "english": "tumble",
+            "example": "地面に落ちる \n tumble to the ground",
+            "japanese": "落ちる, (価格などが)暴落する"
+        },
+        {
+            "english": "adhere",
+            "example": "条約を固く守る \n adhere to the treaty",
+            "japanese": "固く守る"
+        },
+        {
+            "english": "compile",
+            "example": "顧客のリストをまとめる \n compile a list of customers",
+            "japanese": "~をまとめる, (データ・辞書など)を編集する"
+        },
+        {
+            "english": "wither",
+            "example": "花は寒さでしぼむだろう \n The flowers will wither in the cold",
+            "japanese": "しぼむ, 色あせる, ~をしおれさせる"
+        },
+        {
+            "english": "stun",
+            "example": "聴衆をびっくりさせる \n stun the audience",
+            "japanese": "~をびっくりさせる, ~を気絶させる"
+        },
+        {
+            "english": "choke",
+            "example": "食べ物でのどがつまる \n choke on a piece of food",
+            "japanese": "のどがつまる, ~の首をしめる"
+        },
+        {
+            "english": "deteriorate",
+            "example": "彼の健康状態は悪化するだろう \n His health will deteriorate",
+            "japanese": "悪化する, ~を悪化させる"
+        },
+        {
+            "english": "evade",
+            "example": "責任を逃れる \n evade responsibility",
+            "japanese": "~を逃れる"
+        },
+        {
+            "english": "murmur",
+            "example": "低い声でつぶやく \n murmur in a low voice",
+            "japanese": "つぶやく"
+        },
+        {
+            "english": "console",
+            "example": "優しい言葉で彼女を慰める \n console her with kind words",
+            "japanese": "~を慰める, ~を励ます"
+        },
+        {
+            "english": "duplicate",
+            "example": "DVDを複製する \n duplicate a DVD",
+            "japanese": "~を複製する"
+        },
+        {
+            "english": "divert",
+            "example": "事実から注意をそらす \n divert attention from the fact",
+            "japanese": "~をそらす"
+        },
+        {
+            "english": "slaughter",
+            "example": "動物を虐殺する \n slaughter animals",
+            "japanese": "~を虐殺する"
+        },
+        {
+            "english": "reap",
+            "example": "大きな報酬を手に入れる \n reap large rewards",
+            "japanese": "~を手に入れる, ~を収穫する"
+        },
+        {
+            "english": "affirm",
+            "example": "それは本当だと断言する \n affirm that it is true",
+            "japanese": "~と断言する, ~と主張する"
+        },
+        {
+            "english": "knit",
+            "example": "セーターを編む \n knit a sweater",
+            "japanese": "~を編む, しっかりと組み合わせる"
+        },
+        {
+            "english": "ponder",
+            "example": "問題を熟考する \n ponder a question",
+            "japanese": "~を熟考する"
+        },
+        {
+            "english": "embark",
+            "example": "新しい冒険に乗り出す \n embark on a new adventure",
+            "japanese": "乗り出す, (事業などを)始める"
+        },
+        {
+            "english": "vow",
+            "example": "戦うことを誓う \n vow to fight",
+            "japanese": "~を誓う"
+        },
+        {
+            "english": "foresee",
+            "example": "未来を予知する \n foresee the future",
+            "japanese": "~を予知する"
+        },
+        {
+            "english": "adore",
+            "example": "神として彼を崇拝する \n adore him as a god",
+            "japanese": "~を崇拝する, ~が大好きだ"
+        },
+        {
+            "english": "yearn",
+            "example": "自由を切望する \n yearn for freedom",
+            "japanese": "切望する"
+        },
+        {
+            "english": "undermine",
+            "example": "アメリカの立場を弱める \n undermine the US position",
+            "japanese": "~を弱める"
+        },
+        {
+            "english": "suck",
+            "example": "人間の血を吸う \n suck blood from humans",
+            "japanese": "~を吸う"
+        },
+        {
+            "english": "pledge",
+            "example": "彼らを支持することを誓う \n pledge to support them",
+            "japanese": "~を誓う"
+        },
+        {
+            "english": "intrude",
+            "example": "彼の私生活に立ち入る \n intrude on his private life",
+            "japanese": "立ち入る, じゃまする, 侵入する"
+        },
+        {
+            "english": "sue",
+            "example": "医者を訴える \n sue a doctor",
+            "japanese": "~を訴える"
+        },
+        {
+            "english": "rot",
+            "example": "腐敗する魚のにおい \n the smell of rotting fish",
+            "japanese": "腐敗する"
+        },
+        {
+            "english": "extinguish",
+            "example": "火を消す \n extinguish the fire",
+            "japanese": "~を消す"
+        },
+        {
+            "english": "perplex",
+            "example": "困惑させる質問 \n perplexing questions",
+            "japanese": "困惑させる, ~を困らせる"
+        },
+        {
+            "english": "curb",
+            "example": "人口増加を抑制する \n curb population growth",
+            "japanese": "~を抑制する"
+        },
+        {
+            "english": "withstand",
+            "example": "高温に耐える \n withstand high temperatures",
+            "japanese": "~に耐える, ~に抵抗する"
+        },
+        {
+            "english": "expel",
+            "example": "国から彼を追放する \n expel him from the country",
+            "japanese": "~を追放する, ~を退学させる"
+        },
+        {
+            "english": "recite",
+            "example": "詩を暗唱する \n recite poetry",
+            "japanese": "~を暗唱する, ~を声に出して言う"
+        },
+        {
+            "english": "glitter",
+            "example": "輝くもの必ずしも金ならず \n All that glitters is not gold",
+            "japanese": "輝く"
+        },
+        {
+            "english": "plead",
+            "example": "彼女に戻るよう嘆願する \n plead with her to come back",
+            "japanese": "嘆願する"
+        },
+        {
+            "english": "contemplate",
+            "example": "彼との結婚を考える \n contemplate marrying him",
+            "japanese": "~を考える, ~しようと考える"
+        },
+        {
+            "english": "discharge",
+            "example": "川に廃水を放出する \n discharge waste into rivers",
+            "japanese": "~を放出する, ~を解任する"
+        },
+        {
+            "english": "preach",
+            "example": "群衆に説教する \n preach to the crowd",
+            "japanese": "説教する, ~を説く"
+        },
+        {
+            "english": "rattle",
+            "example": "窓をがたがた鳴らす \n rattle the windows",
+            "japanese": "~をがたがた鳴らす"
+        },
+        {
+            "english": "retrieve",
+            "example": "情報を検索する \n retrieve information",
+            "japanese": "~を検索する, ~を取り戻す"
+        },
+        {
+            "english": "shrug",
+            "example": "肩をすくめる \n shrug your shoulders",
+            "japanese": "~をすくめる"
+        },
+        {
+            "english": "evoke",
+            "example": "反応を呼び起こす \n evoke a response",
+            "japanese": "~を呼び起こす, (記憶・感情)を喚起する"
+        },
+        {
+            "english": "haunt",
+            "example": "死の恐怖につきまとわれる \n be haunted by the fear of death",
+            "japanese": "つきまとう"
+        },
+        {
+            "english": "disguise",
+            "example": "笑顔で怒りを隠す \n disguise anger with a smile",
+            "japanese": "~を隠す"
+        },
+        {
+            "english": "flatter",
+            "example": "上司にお世辞を言う \n flatter the boss",
+            "japanese": "~にお世辞を言う, ~をほめて喜ばせる"
+        }
+    ]
+}

@@ -1,0 +1,195 @@
+.submit_button button {
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0 auto;
+    max-width: 240px;
+	border: none;
+    padding: 12px 30px;
+    color: black;
+    transition: 0.3s ease-in-out;
+    font-weight: 600;
+    background: #eee;
+    filter: drop-shadow(0px 2px 4px #ccc);
+    border-radius: 5px;
+}
+.submit_button button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 15px 30px -5px rgb(0 0 0 / 15%), 0 0 5px rgb(0 0 0 / 10%);
+}
+.submit_button button:after {
+    content: '';
+    width: 5px;
+    height: 5px;
+    border-top: 3px solid #313131;
+    border-right: 3px solid #313131;
+    transform: rotate(45deg) translateY(-48%);
+    position: absolute;
+    top: 48%;
+    right: 20px;
+    border-radius: 1px;
+    transition: 0.3s ease-in-out;
+}
+
+
+.radio_input {
+	padding: 10px;
+	display: flex;
+	align-items: center;
+	cursor: pointer;
+	border: 2px solid #2589d0;
+    border-radius: 5px;
+    background-color: #f0f0f0;
+    transition: background-color 0.3s ease;
+}
+.radio_input:hover {
+	background-color: #e0e0e0;
+}
+.radio_input-Input {
+	opacity: 0;
+	position: absolute;
+	/*width: 0;
+	margin: 0;*/
+}
+.radio_input-Input:focus + .radio_input-DummyInput {
+	border: solid 2px #333333;
+	background: #EEEEEE;
+}
+.radio_input-Input:checked + .radio_input-DummyInput {
+	border: solid 2px #333333;
+}
+.radio_input-Input:checked + .radio_input-DummyInput::before {
+	content: "";
+	display: block;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	width: 12px;
+	height: 12px;
+	border-radius: 50%;
+	background: #333333;
+}
+  .radio_input-DummyInput {
+	position: relative;
+	/*top: 0;
+	left: 0;*/
+	display: block;
+	width: 24px;
+	height: 24px;
+	margin-right: 15px;
+	border: 2px solid #2589d0;
+	border-radius: 50%;
+	background-color: #fff;
+}
+.radio_input-LabelText {
+	display: block;
+	font-size: 18px;
+	color: #333;
+}
+
+
+.selectbox {
+    position: relative;
+	display: inline-block; /* フォームと矢印を横並びに整列 */
+	padding: 13px 0;
+    align-items: center; /* 垂直方向の中央揃え */
+    width: fit-content; /* コンテンツサイズに合わせる */
+
+}
+.selectbox::before,
+.selectbox::after {
+    position: absolute;
+	content: '';
+    pointer-events: none;
+}
+.selectbox::before {
+    right: 0;
+    /*display: inline-block;*/
+    width: 2.8em;
+    height: 2.8em;
+    border-radius: 0 3px 3px 0;
+    background-color: #2589d0;
+    content: '';
+}
+.selectbox::after {
+    /*position: absolute;*/
+    top: 50%;
+    right: 1.4em;
+    transform: translate(50%, -50%) rotate(45deg);
+    width: 6px;
+    height: 6px;
+    border-bottom: 3px solid #fff;
+    border-right: 3px solid #fff;
+    content: '';
+}
+.selectbox select {
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    /*min-width: 230px;*/
+	width: 230px;
+    height: 2.8em;
+    padding: .4em 3.6em .4em .8em;
+    border: 2px solid #2589d0;
+    border-radius: 3px;
+    color: #333333;
+    font-size: 1em;
+    cursor: pointer;
+	background-color: white; /* 背景色を指定 */
+    background-image: none; /* 背景画像（矢印）を削除 */
+}
+.selectbox select:focus {
+    outline: 1px solid #2589d0;
+}
+.selectbox select::-ms-expand {
+    display: none; /* IEのデフォルト矢印を非表示に */
+}
+
+
+.result-container {
+	max-width: 900px;
+	margin: 30px auto;
+	padding: 20px;
+	background-color: white;
+	box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+	border-radius: 8px;
+}
+.result-item {
+	padding: 15px;
+	margin: 10px 0;
+	border: 1px solid #ddd;
+	border-radius: 5px;
+}
+.correct {
+	background-color: #d4edda;
+	color: #155724;
+}
+.incorrect {
+	background-color: #f8d7da;
+	color: #721c24;
+}
+.result-summary {
+	text-align: center;
+	margin-top: 20px;
+	font-size: 1.2em;
+}
+
+
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 30px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+.question {
+    margin-bottom: 30px;
+}
+.options {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}

@@ -1,0 +1,174 @@
+<!-- src/main/resources/static/top.html -->
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" type="text/css" href="/css/style.css">
+    <title>TOP PAGE</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+        }
+        h1 {
+            color: #333;
+            margin-top: 50px;
+        }
+        p {
+            color: #555;
+            font-size: 1.2em;
+        }
+        .form-container {
+            margin-top: 30px;
+        }
+        input[type="text"] {
+            padding: 10px;
+            font-size: 1.2em;
+            margin-right: 10px;
+        }
+        button {
+            padding: 10px 20px;
+            font-size: 1.2em;
+            cursor: pointer;
+        }
+        .result {
+            margin-top: 20px;
+            font-size: 1.5em;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <h1>英単語演習</h1>
+	
+	<form action="/select" method="post">
+		<div  class="selectbox">
+			<label for="chapter">問題の章</label>
+			<select id="chapter" name="chapter">
+				<option value="Chapter1">Chapter1</option>
+				<option value="Chapter2">Chapter2</option>
+				<option value="Chapter3">Chapter3</option>
+			</select>
+		</div>
+		<br>
+		<div  class="selectbox">
+			<label for="part">品詞選択</label>
+			<select id="part" name="part">
+				<option value="nouns">名詞</option>
+				<option value="verb">動詞</option>
+				<option value="ads">形容詞・副詞</option>
+			</select>
+		</div>
+		<br>
+		<div class="selectbox">
+			<label for="direction">問題形式</label>
+			<select id="direction" name="direction">
+				<option value="e-to-j">英 -> 日</option>
+				<option value="j-to-e">日 -> 英</option>
+			</select>
+		</div>
+		<br>
+		<div class="selectbox">
+			<label for="size">問題の数</label>
+			<select id="size" name="size">
+				<option value="10">10問</option>
+				<option value="20">20問</option>
+				<option value="30">30問</option>
+				<option value="40">40問</option>
+				<option value="50">50問</option>
+			</select>
+		</div>
+
+		<br>
+		<br>
+		<div class="submit_button">
+			<button type="submit">問題を解き始める</button>			
+		</div>
+	</form>
+	
+	<!--
+	<div class="form-container">
+		<label for="chapter">Select Chapter:</label>
+        <select id="chapter" name="chapter">
+            <option value="Chapter1">Chapter1</option>
+            <option value="Chapter2">Chapter2</option>
+            <option value="Chapter3">Chapter3</option>
+        </select>
+    </div>
+	<div class="form-container">
+        <select id="direction" name="direction">
+            <option value="e-to-j">英 -> 日</option>
+            <option value="j-to-e">日 -> 英</option>
+        </select>
+    </div>
+	<div class="form-container">
+        <select id="size" name="id">
+            <option value="10">10</option>
+            <option value="20">20</option>
+            <option value="30">30</option>
+			<option value="40">40</option>
+            <option value="50">50</option>
+        </select>
+    </div>
+	
+	<div class="form-container">
+		<form id="submitButton" action="/select" method="post">
+			<button type="submit" onclick="select()">Submit</button>
+		</form>
+	</div>
+	
+	<form id="submitButton" enctype="application/x-www-form-urlencoded" method="post">
+		<button type="submit">Submit</button>
+	</form>
+	-->
+
+    <!-- サーバーからのレスポンスを表示 -->
+    <div class="result" id="result"></div>
+    
+    <script>
+		/*document.getElementById('submitButton').addEventListener('submit', function(event) {
+			event.preventDefault(); // デフォルトのフォーム送信を防ぐ
+
+			//const formData = new FormData(this);
+
+			const chapter = document.getElementById('chapter').value;
+    		const direction = document.getElementById('direction').value;
+    		const size = document.getElementById('size').value;
+
+			fetch('/select', {
+				method: 'POST',
+				body: new URLSearchParams({
+					'chapter': chapter,  // 送信するパラメータ
+					'direction' : direction,
+					'size' : size
+				})
+				//body: formData
+			})
+			.then(response => {
+				if (response.ok) {
+					return response.text();
+				} else {
+					throw new Error('Request failed');
+				}
+			}).then(data => {
+				document.getElementById('result').innerHTML = data;
+			}).catch(error => {
+				console.error('Error:', error);
+			});
+			//.then(response => {
+			//	if (response.ok) {
+			//		window.location.href = response.url;
+			//	} else {
+			//		console.error('Request failed:', response.status);
+			//	}
+			//}).catch(error => {
+			//	console.error('Error:', error);
+			//});
+		});*/
+    </script>
+</body>
+</html>

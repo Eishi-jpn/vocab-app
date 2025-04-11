@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="ja" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+	<link rel="stylesheet" type="text/css" href="/css/style.css">
+    <title>英 -> 日</title>
+	<style>
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			background-color: #f7f7f7;
+		}
+		h1 {
+			text-align: center;
+			font-size: 36px;
+			margin-bottom: 40px;
+			color: #333;
+		}
+		h2 {
+			font-size: 24px;
+			color: #333;
+			margin-bottom: 15px;
+		}
+	</style>
+</head>
+<body>
+	<div class="container">
+		<h1>問題</h1>
+		<ul>
+			<form action="/engResult" method="post" onsubmit="return validateForm()">
+				<div th:each="entry : ${words}" class="question">
+					<h2 th:text="${entry.key.english}"></h2>
+					<div class="options">
+						<table>
+							<tr th:each="word, iterStat : ${entry.value}">
+								<td>
+									<label class="radio_input">
+										<input class="radio_input-Input" type="radio" th:id="'word-' + ${iterStat.index}" th:name="${entry.key.english}" th:value="${word.japanese}">
+										<span class="radio_input-DummyInput"></span>
+										<span class="radio_input-LabelText" th:text="${word.japanese}"></span>
+									</label>
+									<!--元々のbuttonの名残-->
+									<!--<input type="radio" th:id="'word-' + ${iterStat.index}" th:name="${entry.key.english}" th:value="${word.japanese}">
+									<label th:for="'word-' + ${iterStat.index}" th:text="${word.japanese}"></label>-->
+								</td>
+							</tr>
+						</table>
+					</div>
+				</div>
+				<div class="submit_button">
+					<button type="submit">Submit</button>
+				</div>
+			</form>
+		</ul>
+	</div>
+    
+
+	<script>
+		function validateForm() {
+			const questions = document.querySelectorAll("h2"); // 全ての質問タイトルを取得
+			for (let i = 0; i < questions.length; i++) {
+				const name = questions[i].textContent.trim(); // name属性と一致する文字列を取得
+				const radios = document.querySelectorAll(`input[type="radio"][name="${name}"]`);
+
+				let checked = false;
+				radios.forEach(radio => {
+					if (radio.checked) {
+						checked = true;
+					}
+				});
+
+				if (!checked) {
+					alert(`「${name}」に回答してください！`);
+					return false; // 未入力があれば送信をキャンセル
+				}
+			}
+			return true; // 全て選択されていたら送信
+		}
+	</script>
+</body>
+</html>

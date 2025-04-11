@@ -1,0 +1,535 @@
+
+{
+    "list": [
+        {
+            "english": "apt",
+            "example": "名前を忘れやすい \n be apt to forget names",
+            "japanese": "~しがちである, ~する傾向がある"
+        },
+        {
+            "english": "humble",
+            "example": "謙虚な態度 \n a humble attitude",
+            "japanese": "謙虚な, 粗末な"
+        },
+        {
+            "english": "entitled",
+            "example": "そのお金をもらう権利がある \n be entitled to the money",
+            "japanese": "~を得る権利がある, ~と題された"
+        },
+        {
+            "english": "valid",
+            "example": "遅れてくる正当な理由 \n a valid reason for being late",
+            "japanese": "妥当な, 正当な, (切符・文書などが)有効な"
+        },
+        {
+            "english": "faint",
+            "example": "かすかな光が見える \n see a faint light",
+            "japanese": "かすかな"
+        },
+        {
+            "english": "stiff",
+            "example": "堅苦しい態度 \n a stiff attitude",
+            "japanese": "堅い, 堅苦しい"
+        },
+        {
+            "english": "obscure",
+            "example": "はっきりとわからない理由で \n for some obscure reason",
+            "japanese": "わかりにくい"
+        },
+        {
+            "english": "fierce",
+            "example": "激しい競争に生き残る \n survive the fierce competition",
+            "japanese": "(競争・反対・嵐などが)激しい"
+        },
+        {
+            "english": "acute",
+            "example": "最も深刻な問題 \n the most acute problem",
+            "japanese": "(問題が)深刻な, (感覚・痛みが)鋭い"
+        },
+        {
+            "english": "idle",
+            "example": "何もせず一日座っている \n sit idle all day",
+            "japanese": "(仕事がなくて)何もしていない"
+        },
+        {
+            "english": "crude",
+            "example": "粗末な石器 \n crude stone tools",
+            "japanese": "粗末な, 粗野な"
+        },
+        {
+            "english": "jealous",
+            "example": "彼の成功をねたむ \n be jealous of his success",
+            "japanese": "嫉妬深い, うらやましい"
+        },
+        {
+            "english": "pregnant",
+            "example": "彼の妊娠している妻 \n his pregnant wife",
+            "japanese": "妊娠している"
+        },
+        {
+            "english": "liable",
+            "example": "それを忘れがちである \n be liable to forget it",
+            "japanese": "~しがちである, 可能性が高い"
+        },
+        {
+            "english": "intent",
+            "example": "彼と結婚する決意をしている \n be intent on marrying him",
+            "japanese": "没頭した"
+        },
+        {
+            "english": "decent",
+            "example": "まともな生活水準 \n a decent standard of living",
+            "japanese": "(世間から見て)まともな"
+        },
+        {
+            "english": "marvelous",
+            "example": "驚くべき記録 \n a marvelous record",
+            "japanese": "驚くべき"
+        },
+        {
+            "english": "misleading",
+            "example": "誤解を招く表現 \n a misleading expression",
+            "japanese": "誤解を招く"
+        },
+        {
+            "english": "tame",
+            "example": "人に慣れたサル \n a tame monkey",
+            "japanese": "飼いならされた, 慣れた"
+        },
+        {
+            "english": "classical",
+            "example": "クラシック音楽 \n classical music",
+            "japanese": "(音楽が)クラシックの"
+        },
+        {
+            "english": "Muslim",
+            "example": "イスラム世界で \n in the Muslim world",
+            "japanese": "イスラム教の"
+        },
+        {
+            "english": "grave",
+            "example": "重大な危機にある \n be in grave danger",
+            "japanese": "重大な, 重々しい"
+        },
+        {
+            "english": "fertile",
+            "example": "肥えた土壌 \n a fertile soil",
+            "japanese": "肥沃な"
+        },
+        {
+            "english": "hostile",
+            "example": "外国人に敵意を持つ \n be hostile to foreigners",
+            "japanese": "敵意を持つ"
+        },
+        {
+            "english": "indispensable",
+            "example": "水は生命にとって不可欠だ \n Water is indispensable to life",
+            "japanese": "不可欠だ"
+        },
+        {
+            "english": "alert",
+            "example": "あらゆる音に用心する \n be alert to every sound",
+            "japanese": "用心する, 頭がさえている"
+        },
+        {
+            "english": "trivial",
+            "example": "ささいな事柄 \n a trivial matter",
+            "japanese": "ささいな, 取るに足らない"
+        },
+        {
+            "english": "oriented",
+            "example": "情報志向の社会 \n an information-oriented society",
+            "japanese": "志向の, 関心がある"
+        },
+        {
+            "english": "splendid",
+            "example": "素晴らしい景色 \n a splendid view",
+            "japanese": "素晴らしい, 壮麗な"
+        },
+        {
+            "english": "competent",
+            "example": "有能な教師 \n a competent teacher",
+            "japanese": "有能な"
+        },
+        {
+            "english": "supreme",
+            "example": "最高の喜び \n supreme joy",
+            "japanese": "最高の"
+        },
+        {
+            "english": "sheer",
+            "example": "まったくの幸運 \n sheer good luck",
+            "japanese": "まったくの"
+        },
+        {
+            "english": "sacred",
+            "example": "イスラム教徒の聖地 \n a land sacred to Islam",
+            "japanese": "神聖な"
+        },
+        {
+            "english": "bold",
+            "example": "大胆な行動をとる \n take bold action",
+            "japanese": "大胆な"
+        },
+        {
+            "english": "uneasy",
+            "example": "将来について不安な気持ちになる \n feel uneasy about the future",
+            "japanese": "不安な"
+        },
+        {
+            "english": "neat",
+            "example": "きちんとした服 \n neat clothes",
+            "japanese": "きちんとした, こぎれいな"
+        },
+        {
+            "english": "shallow",
+            "example": "浅い川 \n a shallow river",
+            "japanese": "浅はかな, 浅い"
+        },
+        {
+            "english": "loyal",
+            "example": "会社に忠実な労働者 \n a worker loyal to the company",
+            "japanese": "誠実な, 忠実な"
+        },
+        {
+            "english": "superficial",
+            "example": "表面的な違い \n a superficial difference",
+            "japanese": "うわべの, 浅薄な, 表面的な"
+        },
+        {
+            "english": "absurd",
+            "example": "まったくばかげた考え \n a completely absurd idea",
+            "japanese": "ばかげた"
+        },
+        {
+            "english": "fragile",
+            "example": "壊れやすい環境 \n the fragile environment",
+            "japanese": "もろい, 壊れやすい"
+        },
+        {
+            "english": "respectable",
+            "example": "ちゃんとした家の娘 \n a girl from a respectable family",
+            "japanese": "ちゃんとした, 立派な , 下品でない"
+        },
+        {
+            "english": "respectful",
+            "example": "年上の人を敬う \n be respectful to elders",
+            "japanese": "敬う"
+        },
+        {
+            "english": "respective",
+            "example": "それぞれの地区の学校 \n schools in the respective areas",
+            "japanese": "それぞれの"
+        },
+        {
+            "english": "magnificent",
+            "example": "すばらしい光景 \n a magnificent view",
+            "japanese": "立派な, すばらしい"
+        },
+        {
+            "english": "infinite",
+            "example": "無限の数の星 \n an infinite number of stars",
+            "japanese": "無限の"
+        },
+        {
+            "english": "comprehensive",
+            "example": "包括的研究 \n a comprehensive study",
+            "japanese": "総合的な, 広範囲の"
+        },
+        {
+            "english": "steep",
+            "example": "険しい坂 \n a steep slope",
+            "japanese": "急な, 険しい"
+        },
+        {
+            "english": "gross",
+            "example": "国内総生産 \n the gross domestic product",
+            "japanese": "総計の, (誤りなどが)ひどい"
+        },
+        {
+            "english": "subsequent",
+            "example": "次に起こる出来事に備える \n prepare for subsequent events",
+            "japanese": "(時間的に)後の, 次の"
+        },
+        {
+            "english": "sincere",
+            "example": "彼女の誠実な努力 \n her sincere efforts",
+            "japanese": "心からの, 誠実な"
+        },
+        {
+            "english": "timid",
+            "example": "おくびょうな子ども \n a timid child",
+            "japanese": "おくびょうな"
+        },
+        {
+            "english": "neutral",
+            "example": "中立の立場をとる \n take a neutral position",
+            "japanese": "公平な, 中立な"
+        },
+        {
+            "english": "diligent",
+            "example": "勤勉な学生 \n a diligent student",
+            "japanese": "勤勉な"
+        },
+        {
+            "english": "sore",
+            "example": "喉が痛い \n have a sore throat",
+            "japanese": "痛い"
+        },
+        {
+            "english": "contaminated",
+            "example": "汚染された水を飲む \n drink contaminated water",
+            "japanese": "汚染された"
+        },
+        {
+            "english": "ambiguous",
+            "example": "どちらともとれる答え \n an ambiguous answer",
+            "japanese": "あいまいな, 多義的な"
+        },
+        {
+            "english": "oral",
+            "example": "口述の試験 \n an oral examination",
+            "japanese": "口述の, 口の"
+        },
+        {
+            "english": "restless",
+            "example": "落ち着かない夜を過ごす \n spend a restless night",
+            "japanese": "そわそわした, 不安な , 落ち着かない"
+        },
+        {
+            "english": "savage",
+            "example": "野蛮な暴力 \n savage violence",
+            "japanese": "残忍な, 野蛮な"
+        },
+        {
+            "english": "vigorous",
+            "example": "精力的な活動 \n vigorous activity",
+            "japanese": "元気はつらつな, 精力的な"
+        },
+        {
+            "english": "immense",
+            "example": "莫大な量の情報 \n an immense amount of information",
+            "japanese": "計り知れない, 莫大な"
+        },
+        {
+            "english": "metropolitan",
+            "example": "大都市圏 \n metropolitan areas",
+            "japanese": "大都市の"
+        },
+        {
+            "english": "punctual",
+            "example": "約束の時間をきっちり守る \n be punctual for an appointment",
+            "japanese": "時間をきっちり守る"
+        },
+        {
+            "english": "solitary",
+            "example": "孤独な老人 \n a solitary old man",
+            "japanese": "寂しい, 孤独な"
+        },
+        {
+            "english": "collective",
+            "example": "集団行動を起こす \n take collective action",
+            "japanese": "集合的な"
+        },
+        {
+            "english": "diplomatic",
+            "example": "外交関係を断絶する \n break off diplomatic relations",
+            "japanese": "外交的な"
+        },
+        {
+            "english": "brutal",
+            "example": "残忍な殺人事件 \n a brutal murder",
+            "japanese": "残忍な"
+        },
+        {
+            "english": "helpless",
+            "example": "無力な赤ん坊 \n a helpless baby",
+            "japanese": "無力な"
+        },
+        {
+            "english": "arrogant",
+            "example": "あいつの傲慢な態度 \n his arrogant attitude",
+            "japanese": "いばった, 傲慢な"
+        },
+        {
+            "english": "bankrupt",
+            "example": "彼の会社は破産した \n his company went bankrupt",
+            "japanese": "破産した"
+        },
+        {
+            "english": "eternal",
+            "example": "永遠の平和を願う \n wish for eternal peace",
+            "japanese": "不変の, 永遠の"
+        },
+        {
+            "english": "sole",
+            "example": "唯一の生存者 \n the sole surviver",
+            "japanese": "唯一の"
+        },
+        {
+            "english": "gloomy",
+            "example": "暗い見通し \n gloomy prospects",
+            "japanese": "暗い, 憂鬱な, 悲観的な"
+        },
+        {
+            "english": "notable",
+            "example": "注目すべき例外 \n a notable exception",
+            "japanese": "注目すべき"
+        },
+        {
+            "english": "affluent",
+            "example": "世界一裕福な国 \n the world's most affluent country",
+            "japanese": "裕福な"
+        },
+        {
+            "english": "naked",
+            "example": "裸の男 \n a naked man",
+            "japanese": "裸の"
+        },
+        {
+            "english": "vocal",
+            "example": "発声器官 \n the vocal organ",
+            "japanese": "声の"
+        },
+        {
+            "english": "feminine",
+            "example": "女性の美しさ \n feminine beauty",
+            "japanese": "女性的な"
+        },
+        {
+            "english": "vacant",
+            "example": "空いている席に座る \n sit down in a vacant seat",
+            "japanese": "使用されていない, 空いている"
+        },
+        {
+            "english": "exotic",
+            "example": "国内産と外来の動物 \n native and exotic animals",
+            "japanese": "外来の, 異国風の"
+        },
+        {
+            "english": "cognitive",
+            "example": "子どもの認知能力 \n children's cognitive ability",
+            "japanese": "認知の"
+        },
+        {
+            "english": "humid",
+            "example": "夏の蒸し暑い天気 \n humid summer weather",
+            "japanese": "多湿の, 蒸し暑い"
+        },
+        {
+            "english": "outstanding",
+            "example": "傑出した学者 \n an outstanding scholar",
+            "japanese": "目立った, 傑出した"
+        },
+        {
+            "english": "addicted",
+            "example": "麻薬中毒である \n be addicted to drugs",
+            "japanese": "~に熱中した, ~中毒の"
+        },
+        {
+            "english": "vulnerable",
+            "example": "攻撃を受けやすい \n be vulnerable to attack",
+            "japanese": "傷つきやすい"
+        },
+        {
+            "english": "spontaneous",
+            "example": "自然に起こる笑い \n spontaneous laughter",
+            "japanese": "自発的な, 自然に起こる"
+        },
+        {
+            "english": "greedy",
+            "example": "金にどん欲だ \n be greedy for money",
+            "japanese": "どん欲だ"
+        },
+        {
+            "english": "thirsty",
+            "example": "塩分の多い食事で喉が渇く \n Salty food makes you thirsty",
+            "japanese": "喉が渇く, 渇望している"
+        },
+        {
+            "english": "per capita",
+            "example": "日本の一人当たりの国民所得 \n Japan's per capita income",
+            "japanese": "一人当たりの"
+        },
+        {
+            "english": "inherent",
+            "example": "そのスポーツに元から伴う危険 \n dangers inherent in the sport",
+            "japanese": "本来備わった, 固有の"
+        },
+        {
+            "english": "promising",
+            "example": "前途有望な新人女優 \n a promising new actress",
+            "japanese": "前途有望な"
+        },
+        {
+            "english": "physiological",
+            "example": "生理的な反応 \n physiological reactions",
+            "japanese": "生理的な"
+        },
+        {
+            "english": "clinical",
+            "example": "新薬の臨床試験 \n clinical trials of new drugs",
+            "japanese": "臨床"
+        },
+        {
+            "english": "chronic",
+            "example": "慢性の病気 \n chronic disease",
+            "japanese": "慢性の"
+        },
+        {
+            "english": "geological",
+            "example": "地質学的な時代区分 \n devisions of geological time",
+            "japanese": "地質学の"
+        },
+        {
+            "english": "countless",
+            "example": "無数の種類の昆虫 \n countless species of insects",
+            "japanese": "無数の"
+        },
+        {
+            "english": "simultaneously",
+            "example": "同時に起こる \n occur simultaneously",
+            "japanese": "同時に"
+        },
+        {
+            "english": "utterly",
+            "example": "他人と全く異なる \n utterly different from others",
+            "japanese": "まったく, 完全に"
+        },
+        {
+            "english": "upright",
+            "example": "まっすぐに立つ \n stand upright",
+            "japanese": "まっすぐに, 直立して"
+        },
+        {
+            "english": "overnight",
+            "example": "彼の家で一晩止まる \n stay overnight in his house",
+            "japanese": "一晩中"
+        },
+        {
+            "english": "thereby",
+            "example": "彼はいつも真実を述べ, そうすることで, 面倒を避けている \n He always tells the truth, thereby avoiding trouble",
+            "japanese": "そうすることで"
+        },
+        {
+            "english": "via",
+            "example": "インターネット経由で代金を払う \n pay bills via the Internet",
+            "japanese": "~経由で"
+        },
+        {
+            "english": "namely",
+            "example": "その2つの都市, すなわちパリと東京 \n the two cities, namely, Paris and Tokyo",
+            "japanese": "すなわち"
+        },
+        {
+            "english": "frankly",
+            "example": "率直に話す \n speak frankly",
+            "japanese": "率直に"
+        },
+        {
+            "english": "hence",
+            "example": "彼は努力した. だから成功した \n He tried hard, hence his success",
+            "japanese": "だから"
+        }
+    ]
+}

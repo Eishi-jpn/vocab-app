@@ -1,0 +1,94 @@
+<!-- src/main/resources/static/index.html -->
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spring Boot with Fetch API</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+        }
+        h1 {
+            color: #333;
+            margin-top: 50px;
+        }
+        p {
+            color: #555;
+            font-size: 1.2em;
+        }
+        .form-container {
+            margin-top: 30px;
+        }
+        input[type="text"] {
+            padding: 10px;
+            font-size: 1.2em;
+            margin-right: 10px;
+        }
+        button {
+            padding: 10px 20px;
+            font-size: 1.2em;
+            cursor: pointer;
+        }
+        .result {
+            margin-top: 20px;
+            font-size: 1.5em;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to Spring Boot!</h1>
+    <p>Enter your name and receive a greeting from the server.</p>
+    
+    <!-- フォーム -->
+	
+    <div class="form-container">
+		<form id="nameForm" action="/greet" method="POST">
+    	    <input type="text" id="name" name="name" placeholder="Enter your name" required>
+        	<button onclick="submitName()">Submit</button>
+		</form>
+    </div>
+
+    <!-- サーバーからのレスポンスを表示 -->
+    <div class="result" id="result"></div>
+    
+    <script>
+        function submitName() {
+            // 入力された名前を取得
+            const name = document.getElementById('name').value;
+
+            // 名前が空でないことを確認
+            if (name.trim() === "") {
+                alert("Please enter a name.");
+                return;
+            }
+
+            // fetchを使ってPOSTリクエストを送信
+            fetch('/greet', {
+      			method: 'POST',  // POSTリクエスト
+        		headers: {
+					'Content-Type': 'application/x-www-form-urlencoded',  // フォームデータとして送信
+				},
+				body: new URLSearchParams({
+					'name': name
+				})
+			})
+			.then(response => {
+				if(response.ok){
+					window.location.href = response.url;
+				} else {
+					console.error('Request failed:', response.status);
+				}
+			})
+			.catch(error => {
+				console.error('Error:', error);
+			});
+        }
+    </script>
+</body>
+</html>

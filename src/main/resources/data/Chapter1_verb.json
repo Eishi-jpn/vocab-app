@@ -1,0 +1,1205 @@
+
+{
+    "list": [
+        {
+            "english": "follow",
+            "example": "彼女の助言に従う \n follow her advice",
+            "japanese": "~に続く, 従う"
+        },
+        {
+            "english": "consider",
+            "example": "真剣にその問題を考える \n consider the problem seriously",
+            "japanese": "考慮する"
+        },
+        {
+            "english": "increase",
+            "example": "20%増加する \n increase by 20%",
+            "japanese": "増える, 増やす"
+        },
+        {
+            "english": "expect",
+            "example": "君がすぐ来ることを予期する \n expect you to arrive soon",
+            "japanese": "~を予期する"
+        },
+        {
+            "english": "decide",
+            "example": "真実を語る決意をする \n decide to tell the truth",
+            "japanese": "~することを決意する"
+        },
+        {
+            "english": "develop",
+            "example": "特異な能力を発達させる \n develop a unique ability",
+            "japanese": "発達する, ~を発達させる"
+        },
+        {
+            "english": "provide",
+            "example": "彼に情報を与える \n provide him with information",
+            "japanese": "~を供給する, 与える"
+        },
+        {
+            "english": "continue",
+            "example": "急速に成長し続ける \n continue to grow fast",
+            "japanese": "続く, 続ける"
+        },
+        {
+            "english": "include",
+            "example": "リストは彼の名前を含んでいる \n The list includes his name",
+            "japanese": "~を含む, 含める"
+        },
+        {
+            "english": "remain",
+            "example": "黙ったままでいる \n remain silent",
+            "japanese": "~のままでいる"
+        },
+        {
+            "english": "reach",
+            "example": "山頂に達する \n reach the mountain top",
+            "japanese": "~に着く, ~に達する"
+        },
+        {
+            "english": "allow",
+            "example": "彼に外出を許可する \n allow him to go out",
+            "japanese": "~を許可する"
+        },
+        {
+            "english": "force",
+            "example": "立ち退きを強制される \n be forced to leave",
+            "japanese": "~を強制する"
+        },
+        {
+            "english": "offer",
+            "example": "貧しい人に援助を申し出る \n offer help to the poor",
+            "japanese": "~を申し出る"
+        },
+        {
+            "english": "realize",
+            "example": "まちがいを悟る \n realize the error",
+            "japanese": "~を悟る"
+        },
+        {
+            "english": "require",
+            "example": "もっと注意を必要とする \n require more attention",
+            "japanese": "~を必要とする"
+        },
+        {
+            "english": "suggest",
+            "example": "新しいやり方を提案する \n suggest a new way",
+            "japanese": "~と提案する, ~をほのめかす"
+        },
+        {
+            "english": "worry",
+            "example": "お金のことを心配する \n worry about money",
+            "japanese": "心配する"
+        },
+        {
+            "english": "wonder",
+            "example": "彼はどこに行ったのかと思う \n wonder where he has gone",
+            "japanese": "~かと疑問に思う"
+        },
+        {
+            "english": "cost",
+            "example": "その車には5万ドルかかった \n The car cost me $50000",
+            "japanese": "(費用を)要する"
+        },
+        {
+            "english": "tend",
+            "example": "腹を立てがちである \n tend to get angry",
+            "japanese": "~する傾向がある, ~しがちである"
+        },
+        {
+            "english": "depend",
+            "example": "すべては彼しだいだ \n Everything depends on him",
+            "japanese": "~に依存する, ~しだいで決まる"
+        },
+        {
+            "english": "share",
+            "example": "友人と部屋を共有する \n share a room with a friend",
+            "japanese": "~を分け合う, 共有する"
+        },
+        {
+            "english": "demand",
+            "example": "さらに金を要求する \n demand more money",
+            "japanese": "~を要求する"
+        },
+        {
+            "english": "support",
+            "example": "大統領を支持する \n support the President",
+            "japanese": "~を支持する, 養う, 立証する"
+        },
+        {
+            "english": "hire",
+            "example": "多くの若者を雇う \n hire many young people",
+            "japanese": "~雇う"
+        },
+        {
+            "english": "regard",
+            "example": "彼を友達とみなす \n regard him as a friend",
+            "japanese": "AをBだと思う, みなす"
+        },
+        {
+            "english": "base",
+            "example": "この話は事実に基づいている \n This story is based on fact",
+            "japanese": "AがBに基づいている"
+        },
+        {
+            "english": "improve",
+            "example": "生活の質を向上させる \n improve the quality of life",
+            "japanese": "~を向上させる"
+        },
+        {
+            "english": "recognize",
+            "example": "重要性を認める \n recognize the importance",
+            "japanese": "~を認める"
+        },
+        {
+            "english": "notice",
+            "example": "色彩の変化に気づく \n notice the color change",
+            "japanese": "~に気づく"
+        },
+        {
+            "english": "suppose",
+            "example": "シートベルトを締めることになっている \n You are supposed to wear a seat belt",
+            "japanese": "~だと思う"
+        },
+        {
+            "english": "raise",
+            "example": "3人の子どもを育てる \n raise three children",
+            "japanese": "~を上げる, ~を育てる, 提起する"
+        },
+        {
+            "english": "prefer",
+            "example": "コーヒーよりお茶を好む \n prefer tea to coffee",
+            "japanese": "~をより好む"
+        },
+        {
+            "english": "enter",
+            "example": "15歳で大学に入る \n enter college at fifteen",
+            "japanese": "~に入る"
+        },
+        {
+            "english": "suffer",
+            "example": "ひどい損害を受ける \n suffer heavy damage",
+            "japanese": "(苦痛など)を経験する,受ける, 苦しむ"
+        },
+        {
+            "english": "describe",
+            "example": "なくしたバッグの特徴を言う \n describe the lost bag",
+            "japanese": "~を描写する, ~の特徴を説明する"
+        },
+        {
+            "english": "prevent",
+            "example": "彼が眠るのをさまたげる \n prevent him from sleeping",
+            "japanese": "~をさまたげる"
+        },
+        {
+            "english": "reduce",
+            "example": "体重を減らす \n reduce weight",
+            "japanese": "~を減らす, AをBにする"
+        },
+        {
+            "english": "mistake",
+            "example": "塩を砂糖と間違える \n mistake salt for sugar",
+            "japanese": "~を誤解する, 間違える"
+        },
+        {
+            "english": "prepare",
+            "example": "客のために部屋を準備する \n prepare a room for a guest",
+            "japanese": "準備をする"
+        },
+        {
+            "english": "encourage",
+            "example": "子どもに読書をすすめる \n encourage children to read",
+            "japanese": "励ます, ~を促進する"
+        },
+        {
+            "english": "prove",
+            "example": "本当だとわかる \n prove to be true",
+            "japanese": "~だとわかる, ~を証明する"
+        },
+        {
+            "english": "join",
+            "example": "野球部に入る \n join the baseball club",
+            "japanese": "~に参加する"
+        },
+        {
+            "english": "treat",
+            "example": "子どもみたいに彼をあつかう \n treat him like a child",
+            "japanese": "~をあつかう"
+        },
+        {
+            "english": "establish",
+            "example": "新しい関係を確立する \n establish a new relationship",
+            "japanese": "~を確立する, 設立する"
+        },
+        {
+            "english": "relate",
+            "example": "ストレスと関係のある病気 \n stress-related illness",
+            "japanese": "関係がある"
+        },
+        {
+            "english": "compare",
+            "example": "日本と中国を比較する \n compare Japan with China",
+            "japanese": "~を比較する, ~をたとえる"
+        },
+        {
+            "english": "spread",
+            "example": "テーブルクロスを広げる \n spread the tablecloth",
+            "japanese": "~を広げる, 広がる"
+        },
+        {
+            "english": "refer",
+            "example": "この語は何を指示するか \n What does this word refer to ?",
+            "japanese": "Aを指示する, Aを参照する"
+        },
+        {
+            "english": "supply",
+            "example": "その都市に水を供給する \n supply the city with water",
+            "japanese": "~を供給する"
+        },
+        {
+            "english": "gain",
+            "example": "有益な知識を得る \n gain useful knowledge",
+            "japanese": "~を得る"
+        },
+        {
+            "english": "destroy",
+            "example": "森林を破壊する \n destroy forests",
+            "japanese": "~を破壊する"
+        },
+        {
+            "english": "apply",
+            "example": "全ての場合に規則を当てはめる \n apply the rule to every case",
+            "japanese": "当てはまる, 申し込む"
+        },
+        {
+            "english": "seek",
+            "example": "警察に助けを求める \n seek help from the police",
+            "japanese": "~を求める"
+        },
+        {
+            "english": "search",
+            "example": "盗難車を捜す \n search for the stolen car",
+            "japanese": "Aを捜す"
+        },
+        {
+            "english": "claim",
+            "example": "彼はUFOを見たと主張する \n He claims that he saw a UFO",
+            "japanese": "~と主張する, ~を要求する"
+        },
+        {
+            "english": "draw",
+            "example": "地図を描く \n draw a map",
+            "japanese": "~を引っ張る, (図・絵)を線で描く"
+        },
+        {
+            "english": "introduce",
+            "example": "友人に君を紹介する \n introduce you to my friend",
+            "japanese": "~を紹介する"
+        },
+        {
+            "english": "refuse",
+            "example": "彼にキスするのを拒む \n refuse to kiss him",
+            "japanese": "(申し出など)を断る"
+        },
+        {
+            "english": "mention",
+            "example": "二度とそのことを口にするな \n Never mention it again",
+            "japanese": "~について述べる"
+        },
+        {
+            "english": "judge",
+            "example": "人を外見で判断する \n judge a person by his looks",
+            "japanese": "~を判断する"
+        },
+        {
+            "english": "approach",
+            "example": "台風が日本に接近している \n A typhoon is approaching Japan",
+            "japanese": "~に接近する, (問題など)に取り組む"
+        },
+        {
+            "english": "admit",
+            "example": "自分が間違っていたと認める \n I admit that I was wrong",
+            "japanese": "(不利・不快なこと)を認める"
+        },
+        {
+            "english": "reflect",
+            "example": "時代の気分を反映する \n reflect the mood of the times",
+            "japanese": "~を反映する, 反射する, Aについてよく考える"
+        },
+        {
+            "english": "perform",
+            "example": "仕事を遂行する \n perform the job",
+            "japanese": "~を行う, ~を遂行する"
+        },
+        {
+            "english": "bore",
+            "example": "すごく退屈な映画 \n a very boring movie",
+            "japanese": "(人)をうんざりさせる"
+        },
+        {
+            "english": "survive",
+            "example": "ジャングルで生き残る \n survive in the jungle",
+            "japanese": "生き残る"
+        },
+        {
+            "english": "represent",
+            "example": "言葉は考えを表す \n Words represent ideas",
+            "japanese": "~を表す, ~を代表する"
+        },
+        {
+            "english": "argue",
+            "example": "彼は正しいと主張する \n argue that he is right",
+            "japanese": "~と主張する"
+        },
+        {
+            "english": "grant",
+            "example": "自由を当然と考える \n take freedom for granted",
+            "japanese": "~を認める, ~を与える"
+        },
+        {
+            "english": "indicate",
+            "example": "データは彼が正しいことを示す \n The data indicate that he is right",
+            "japanese": "~を指し示す"
+        },
+        {
+            "english": "belong",
+            "example": "その本はベティのものだ \n The book belongs to Betty",
+            "japanese": "所属している"
+        },
+        {
+            "english": "acquire",
+            "example": "言語を習得する \n acquire a language",
+            "japanese": "(言語・技術)を習得する"
+        },
+        {
+            "english": "reply",
+            "example": "彼の手紙に返事をする \n reply to his letter",
+            "japanese": "返事をする"
+        },
+        {
+            "english": "feed",
+            "example": "大勢の家族を養う \n feed a large family",
+            "japanese": "~にエサをやる, ~を養う"
+        },
+        {
+            "english": "escape",
+            "example": "現実から逃避する \n escape from reality",
+            "japanese": "逃げる"
+        },
+        {
+            "english": "replace",
+            "example": "古い制度に取って代わる \n replace the old system",
+            "japanese": "~に取って代わる, ~を取り替える"
+        },
+        {
+            "english": "reveal",
+            "example": "驚くべき事実を明らかにする \n reveal a surprising fact",
+            "japanese": "~を明らかにする"
+        },
+        {
+            "english": "surround",
+            "example": "日本は海に囲まれている \n Japan is surrounded by the sea",
+            "japanese": "~を取り囲む"
+        },
+        {
+            "english": "suit",
+            "example": "その仕事は君に合っている \n The job suits you",
+            "japanese": "~に合う"
+        },
+        {
+            "english": "estimate",
+            "example": "日本の推定人口 \n the estimated population of Japan",
+            "japanese": "(数量)を推定する"
+        },
+        {
+            "english": "aim",
+            "example": "アジア市場をねらう \n aim at the Asian market",
+            "japanese": "Aを狙う"
+        },
+        {
+            "english": "earn",
+            "example": "家族のためにおかねを稼ぐ \n earn money for the family",
+            "japanese": "(金)をもうける, かせぐ"
+        },
+        {
+            "english": "decline",
+            "example": "記憶力が低下し始めた \n My memory began to decline",
+            "japanese": "衰退する, 低下する, ~を辞退する"
+        },
+        {
+            "english": "afford",
+            "example": "フォードの車を買う余裕がない \n can't afford to buy a Ford",
+            "japanese": "~をする余裕がある"
+        },
+        {
+            "english": "confuse",
+            "example": "彼女の怒りに当惑する \n be confused by her anger",
+            "japanese": "(人)を当惑させる, ~を混同する"
+        },
+        {
+            "english": "graduate",
+            "example": "高校を卒業する \n graduate from high school",
+            "japanese": "Aを卒業する"
+        },
+        {
+            "english": "vary",
+            "example": "国によって変わる \n vary from country to country",
+            "japanese": "変わる, さまざまである"
+        },
+        {
+            "english": "remove",
+            "example": "カバーを取り除く \n remove the cover",
+            "japanese": "~を移す, 取り去る"
+        },
+        {
+            "english": "insist",
+            "example": "フランスに行くと言い張る \n insist on going to France",
+            "japanese": "~と(強く)主張する, 言い張る"
+        },
+        {
+            "english": "examine",
+            "example": "あらゆる記録を調べる \n examine every record",
+            "japanese": "~を調査する"
+        },
+        {
+            "english": "remind",
+            "example": "彼に約束を思い出させる \n remind him of the promise",
+            "japanese": "AにBのことを思い出させる"
+        },
+        {
+            "english": "contribute",
+            "example": "世界平和に貢献する \n contribute to world peace",
+            "japanese": "Aに貢献する, Aの一因となる, AをBに寄付する"
+        },
+        {
+            "english": "warn",
+            "example": "彼に危険を警告する \n warn him of the danger",
+            "japanese": "(人)に警告する"
+        },
+        {
+            "english": "connect",
+            "example": "コンピュータをインターネットにつなぐ \n connect the computer to the Internet",
+            "japanese": "~をつなぐ"
+        },
+        {
+            "english": "match",
+            "example": "力で彼に匹敵する \n match him in power",
+            "japanese": "~に匹敵する, ~に調和する"
+        },
+        {
+            "english": "focus",
+            "example": "その問題に焦点を合わせる \n focus on the problem",
+            "japanese": "焦点を合わせる"
+        },
+        {
+            "english": "reject",
+            "example": "提案を拒否する \n reject the proposal",
+            "japanese": "(提案など)を断る"
+        },
+        {
+            "english": "convince",
+            "example": "それは本当だと彼に確信させる \n convince him that it is true",
+            "japanese": "(人)を納得させる, 確信させる"
+        },
+        {
+            "english": "associate",
+            "example": "赤は危険と結び付けられる \n Red is associated with danger",
+            "japanese": "AをBに関連づける, AからBを連想する"
+        },
+        {
+            "english": "rush",
+            "example": "病院へ急いで行く \n rush into the hospital",
+            "japanese": "急いで行く"
+        },
+        {
+            "english": "stress",
+            "example": "情報の必要性を強調する \n stress the need for information",
+            "japanese": "~を強調する"
+        },
+        {
+            "english": "attaract",
+            "example": "彼の注意を引きつける \n attract his attention",
+            "japanese": "(人・注意)を引きつける"
+        },
+        {
+            "english": "rely",
+            "example": "彼らの力に頼る \n rely on their power",
+            "japanese": "Aに頼る"
+        },
+        {
+            "english": "respond",
+            "example": "質問に答える \n respond to questions",
+            "japanese": "Aに返答する"
+        },
+        {
+            "english": "threaten",
+            "example": "その娘を殺すと脅迫する \n threaten to kill the girl",
+            "japanese": "~を脅迫する"
+        },
+        {
+            "english": "adopt",
+            "example": "新しいシステムを採用する \n adopt a new system",
+            "japanese": "(理論・技術)を採用する"
+        },
+        {
+            "english": "shake",
+            "example": "ビンをよく振る \n shake the bottle well",
+            "japanese": "~を振る"
+        },
+        {
+            "english": "hurt",
+            "example": "彼女の気持ちを傷つける \n hurt her feelings",
+            "japanese": "~を傷つける"
+        },
+        {
+            "english": "operate",
+            "example": "マウスでコンピュータを操作する \n operate a computer with a mouse",
+            "japanese": "(機械など)が作動する,操作する, 手術する"
+        },
+        {
+            "english": "extend",
+            "example": "運動は寿命を延ばす \n Exercise extends life",
+            "japanese": "~を広げる, 延長する"
+        },
+        {
+            "english": "blame",
+            "example": "失敗を他人のせいにする \n blame others for the failure",
+            "japanese": "~を非難する, ~のせいにする"
+        },
+        {
+            "english": "consist",
+            "example": "その本は6課で構成されている \n The book consists of six lessons",
+            "japanese": "Aで構成されている"
+        },
+        {
+            "english": "persuade",
+            "example": "彼らを説得して帰らせる \n persuade them to go back",
+            "japanese": "~を説得する"
+        },
+        {
+            "english": "admire",
+            "example": "彼女の美しさに感嘆する \n admire her beauty",
+            "japanese": "~に感心する"
+        },
+        {
+            "english": "disappoint",
+            "example": "試験の結果に失望する \n be disappointed with the test results",
+            "japanese": "~を失望させる"
+        },
+        {
+            "english": "expand",
+            "example": "市場を拡大する \n expand the market",
+            "japanese": "~を拡大する"
+        },
+        {
+            "english": "preserve",
+            "example": "森林を保護する \n preserve forests",
+            "japanese": "~を保護する"
+        },
+        {
+            "english": "struggle",
+            "example": "自由になろうともがく \n struggle to get free",
+            "japanese": "苦闘する, もがく"
+        },
+        {
+            "english": "arrange",
+            "example": "会議の手はずを整える \n arrange the meeting",
+            "japanese": "(会合など)の手はずを整える, ~を配列する"
+        },
+        {
+            "english": "disturb",
+            "example": "彼の睡眠をさまたげる \n disturb his sleep",
+            "japanese": "(人・仕事など)をさまたげる"
+        },
+        {
+            "english": "employ",
+            "example": "スパイとして彼女を雇う \n employ her as a spy",
+            "japanese": "~を雇う, (方法・言葉など)を用いる"
+        },
+        {
+            "english": "engage",
+            "example": "ボランティア活動に従事する \n engage in volunteer activities",
+            "japanese": "(活動・仕事など)に従事する, Aを行う"
+        },
+        {
+            "english": "abandon",
+            "example": "捨てられた子供 \n an abandoned child",
+            "japanese": "~を捨てる"
+        },
+        {
+            "english": "display",
+            "example": "才能を示す \n display a talent",
+            "japanese": "~を展示する, ~を表す"
+        },
+        {
+            "english": "encounter",
+            "example": "数々の困難に出会う \n encounter many difficulties",
+            "japanese": "~に偶然出会う"
+        },
+        {
+            "english": "exhaust",
+            "example": "口もきけないほど疲れ果てている \n be too exhausted to speak",
+            "japanese": "(人)を疲れ果てさせる"
+        },
+        {
+            "english": "bother",
+            "example": "おじゃましてすみませんが... \n Sorry to bother you, but...",
+            "japanese": "(人)に面倒をかける, 困らせる, ~を気にする"
+        },
+        {
+            "english": "concentrate",
+            "example": "彼の話に集中する \n concentrate on what he is saying",
+            "japanese": "集中する"
+        },
+        {
+            "english": "adapt",
+            "example": "新しい文化に適応する \n adapt to a new culture",
+            "japanese": "~を適応させる, 適応する"
+        },
+        {
+            "english": "puzzle",
+            "example": "その問題に頭を悩ませる \n be puzzled by the problem",
+            "japanese": "~を当惑させる"
+        },
+        {
+            "english": "appeal",
+            "example": "彼の感情に訴えかける \n appeal to his feelings",
+            "japanese": "(理性・感情など)に訴える, (人)を引きつける"
+        },
+        {
+            "english": "combine",
+            "example": "音楽と演劇を結合させる \n combine music and drama",
+            "japanese": "~を結合させる"
+        },
+        {
+            "english": "delay",
+            "example": "彼の到着を遅らせる \n delay his arrival",
+            "japanese": "~を遅らせる"
+        },
+        {
+            "english": "repair",
+            "example": "車を修理する \n repair the car",
+            "japanese": "~を修理する"
+        },
+        {
+            "english": "fascinate",
+            "example": "夢中にさせる物語 \n a fascinating story",
+            "japanese": "(人)を夢中にさせる"
+        },
+        {
+            "english": "devote",
+            "example": "彼は仕事に身をささげた \n He devoted himself to his work",
+            "japanese": "~をささげる"
+        },
+        {
+            "english": "import ",
+            "example": "アメリカから輸入された車 \n cars imported from America",
+            "japanese": "~を輸入する"
+        },
+        {
+            "english": "remark",
+            "example": "彼は親切だと述べる \n remark that he is kind",
+            "japanese": "~と述べる"
+        },
+        {
+            "english": "reserve",
+            "example": "ホテルの部屋を予約する \n reserve a room at a hotel",
+            "japanese": "~を予約する, ~を取っておく"
+        },
+        {
+            "english": "amaze",
+            "example": "驚異的な速さ \n amazing speed",
+            "japanese": "~を驚嘆させる"
+        },
+        {
+            "english": "frighten",
+            "example": "死を恐れる \n be frightened of death",
+            "japanese": "(人)をおびえさせる"
+        },
+        {
+            "english": "release",
+            "example": "仕事から彼を解放する \n release him from work",
+            "japanese": "~を解放する, ~を発表する"
+        },
+        {
+            "english": "rent",
+            "example": "アパートを借りる \n rent an apartment",
+            "japanese": "(家・車など)を賃借りする"
+        },
+        {
+            "english": "recover",
+            "example": "病気から回復する \n recover from illness",
+            "japanese": "(病気など)から回復する"
+        },
+        {
+            "english": "suspect",
+            "example": "彼をスパイではないかと疑う \n suspect him of being a spy",
+            "japanese": "~ではないかと思う, (人・もの)を疑う"
+        },
+        {
+            "english": "deliver",
+            "example": "友人に伝言を渡す \n deliver a message to a friend",
+            "japanese": "~を配達する, 渡す, (講義など)をする"
+        },
+        {
+            "english": "identify",
+            "example": "死体の身元を特定する \n identify the body",
+            "japanese": "~の正体をつきとめる, Aと共感する"
+        },
+        {
+            "english": "locate",
+            "example": "オフィスはその地域にある \n The office is located in the area",
+            "japanese": "~に位置する"
+        },
+        {
+            "english": "manufacture",
+            "example": "車を製造する会社 \n a car manufacturing company",
+            "japanese": "~を製造する"
+        },
+        {
+            "english": "occupy",
+            "example": "高い地位を占める \n occupy a high position",
+            "japanese": "(場所・地位など)を占める"
+        },
+        {
+            "english": "own",
+            "example": "5台の車を所有している \n own five cars",
+            "japanese": "~を所有している"
+        },
+        {
+            "english": "expose",
+            "example": "危険にさらされる \n be exposed to danger",
+            "japanese": "AをBにさらす"
+        },
+        {
+            "english": "conclude",
+            "example": "彼は殺されたという結論を下す \n conclude that he was killed",
+            "japanese": "~と結論づける"
+        },
+        {
+            "english": "cure",
+            "example": "彼の病気を治す \n cure him of his illness",
+            "japanese": "~を治療する"
+        },
+        {
+            "english": "perceive",
+            "example": "危険に気づく \n perceive danger",
+            "japanese": "~を知覚する"
+        },
+        {
+            "english": "ban",
+            "example": "公共の場の喫煙を禁ずる \n ban smoking in public places",
+            "japanese": "~を禁止する"
+        },
+        {
+            "english": "alarm",
+            "example": "その音にぎょっとする \n be alarmed by the noise",
+            "japanese": "~をぎょっとさせる, おびえさせる"
+        },
+        {
+            "english": "derive",
+            "example": "この語はラテン語に由来する \n This word derives from Latin",
+            "japanese": "由来する"
+        },
+        {
+            "english": "neglect",
+            "example": "人権を無視する \n neglect human rights",
+            "japanese": "~を無視する, 怠る, (子どもなど)の世話をしない"
+        },
+        {
+            "english": "adjust",
+            "example": "新しい学校に慣れる \n adjust to a new school",
+            "japanese": "(環境)に慣れる, 調節して合わせる"
+        },
+        {
+            "english": "shift",
+            "example": "ギアを変える \n shift gears",
+            "japanese": "~を変える"
+        },
+        {
+            "english": "embarrass",
+            "example": "その間違いが恥ずかしい \n be embarrassed by the mistake",
+            "japanese": "~を困惑させる, ~に恥ずかしい思いをさせる"
+        },
+        {
+            "english": "approve",
+            "example": "二人の結婚を承認する \n approve of their marriage",
+            "japanese": "~を承認する"
+        },
+        {
+            "english": "commit",
+            "example": "犯罪を犯す \n commit a crime",
+            "japanese": "(罪など)を犯す"
+        },
+        {
+            "english": "stretch",
+            "example": "足を広げる \n stretch my legs",
+            "japanese": "~を広げる"
+        },
+        {
+            "english": "participate",
+            "example": "会議に参加する \n participate in the meeting",
+            "japanese": "Aに参加する"
+        },
+        {
+            "english": "impose",
+            "example": "学生に規則を押し付ける \n impose rules on students",
+            "japanese": "AをBに課す, 押し付ける"
+        },
+        {
+            "english": "owe",
+            "example": "私の成功はあなたのおかげだ \n I owe my success to you",
+            "japanese": "AのことはBのおかげだ"
+        },
+        {
+            "english": "celebrate",
+            "example": "彼の誕生日を祝う \n celebrate his birthday",
+            "japanese": "(特定の日・できごと)を祝う"
+        },
+        {
+            "english": "emerge",
+            "example": "新たな問題が出現した \n A new problem has emerged",
+            "japanese": "(隠れていたもの)が現れる"
+        },
+        {
+            "english": "urge",
+            "example": "禁煙するよう彼を説得する \n urge him to stop smoking",
+            "japanese": "~に強く迫る, ~を説得する"
+        },
+        {
+            "english": "seat",
+            "example": "ベンチで座っている \n be seated on the bench",
+            "japanese": "座っている"
+        },
+        {
+            "english": "injure",
+            "example": "その事故で負傷する \n be injured in the accident",
+            "japanese": "~を傷つける"
+        },
+        {
+            "english": "imply",
+            "example": "彼女の微笑みは何を意味するのか \n What does her smile imply?",
+            "japanese": "~を(暗に)意味する"
+        },
+        {
+            "english": "explain",
+            "example": "彼がなぜ遅れたかを説明する \n explain why he was late",
+            "japanese": "~を説明する"
+        },
+        {
+            "english": "accept",
+            "example": "ありのまま真実を受け入れる \n accept the truth as it is",
+            "japanese": "~を受け入れる"
+        },
+        {
+            "english": "produce",
+            "example": "新型車を生産する \n produce a new car model",
+            "japanese": "生産する, ~を作る"
+        },
+        {
+            "english": "exist",
+            "example": "神は本当に存在するのか \n Does God really exist?",
+            "japanese": "存在する"
+        },
+        {
+            "english": "occur",
+            "example": "この問題はしばしば起こる \n This problem often occurs",
+            "japanese": "起こる, (考えなど)が(人)に浮かぶ"
+        },
+        {
+            "english": "express",
+            "example": "本当の気持ちを表現する \n express my true feelings",
+            "japanese": "~を表現する"
+        },
+        {
+            "english": "add",
+            "example": "スープにミルクを加える \n add some milk to the soup",
+            "japanese": "~を加える, (言葉を)つけ加える, ~を増やす"
+        },
+        {
+            "english": "avoid",
+            "example": "間違いを犯すのを避ける \n avoid making mistakes",
+            "japanese": "~を避ける"
+        },
+        {
+            "english": "marry",
+            "example": "メアリと結婚する \n marry Mary",
+            "japanese": "~と結婚する"
+        },
+        {
+            "english": "protect",
+            "example": "危険から子供たちを守る \n protect children from danger",
+            "japanese": "~を守る"
+        },
+        {
+            "english": "affect",
+            "example": "アルコールは脳に影響する \n Alcohol affects the brain",
+            "japanese": "~に影響する, ~に作用する"
+        },
+        {
+            "english": "determine",
+            "example": "君の未来を決定する \n determine your future",
+            "japanese": "~を決定する, 決心する"
+        },
+        {
+            "english": "solve",
+            "example": "問題を解決する \n solve the problem",
+            "japanese": "解決する"
+        },
+		{
+            "english": "contain",
+            "example": "野菜はたくさんの水を含んでいる \n Vegetables contain a lot of water",
+            "japanese": "(SにO)が入っている"
+        },
+        {
+            "english": "discuss",
+            "example": "彼とその問題を議論する \n discuss the problem with him",
+            "japanese": "~を議論する"
+        },
+        {
+            "english": "ignore",
+            "example": "医者の忠告を無視する \n ignore the doctor's advice",
+            "japanese": "無視する"
+        },
+        {
+            "english": "guess",
+            "example": "彼女の年を推測する \n guess how old she is",
+            "japanese": "~を推測する, ~と考える"
+        },
+        {
+            "english": "exchange",
+            "example": "円をドルに交換する \n exchange yen for dollars",
+            "japanese": "交換する"
+        },
+        {
+            "english": "satisfy",
+            "example": "学生の要求を満たす \n satisfy the needs of students",
+            "japanese": "~を満たす, ~を満足させる"
+        },
+        {
+            "english": "complain",
+            "example": "騒音のことで苦情を言う \n complain about the noise",
+            "japanese": "苦情を言う, 不満を言う"
+        },
+        {
+            "english": "achieve",
+            "example": "ついに目標を達成する \n finally achieve the goal",
+            "japanese": "~を達成する, ~を完成する"
+        },
+        {
+            "english": "enable",
+            "example": "車は自由な移動を可能にする \n Cars enable us to move freely",
+            "japanese": "(人)が~することを可能にする"
+        },
+        {
+            "english": "intend",
+            "example": "アメリカに住むつもりだ \n intend to live in America",
+            "japanese": "~するつもりだ, ~を意図する"
+        },
+        {
+            "english": "obtain",
+            "example": "彼に関する情報を得る \n obtain information about him",
+            "japanese": "~を得る"
+        },
+        {
+            "english": "divide",
+            "example": "ケーキを6個に分割する \n divide the cake into six pieces",
+            "japanese": "分割する"
+        },
+        {
+            "english": "distinguish",
+            "example": "嘘と真実を見分ける \n distinguish a lie from the truth",
+            "japanese": "~を見分ける, ~を区別する"
+        },
+        {
+            "english": "differ",
+            "example": "私の考えは彼女と異なる \n My opinion differs from hers",
+            "japanese": "異なる, 違う"
+        },
+        {
+            "english": "educate",
+            "example": "子どもを教育する方法 \n how to educate children",
+            "japanese": "~を教育する"
+        },
+        {
+            "english": "borrow",
+            "example": "友達から本を借りる \n borrow a book from a friend",
+            "japanese": "~を借りる"
+        },
+        {
+            "english": "invent",
+            "example": "タイムマシンを発明する \n invent a time machine",
+            "japanese": "~を発明する, ~を作り出す"
+        },
+        {
+            "english": "promote",
+            "example": "経済成長を促進する \n promote economic growth",
+            "japanese": "~を促進する"
+        },
+        {
+            "english": "advise",
+            "example": "酒をやめるよう彼に忠告する \n advise him to stop drinking",
+            "japanese": "~に忠告する, ~に助言する"
+        },
+        {
+            "english": "arise",
+            "example": "不注意から問題が生じる \n Problems arise from carelessness",
+            "japanese": "生じる"
+        },
+        {
+            "english": "permit",
+            "example": "彼に外出することを許す \n permit him to go out",
+            "japanese": "~を許す, ~を許可する"
+        },
+        {
+            "english": "recommend",
+            "example": "あなたにこの本を勧める \n recommend this book to you",
+            "japanese": "~を勧める"
+        },
+        {
+            "english": "define",
+            "example": "1日を24時間と定義する \n define a day as twenty-four hours",
+            "japanese": "定義する"
+        },
+        {
+            "english": "inform",
+            "example": "息子の成功を彼に知らせる \n inform him of his son's success",
+            "japanese": "~に知らせる"
+        },
+        {
+            "english": "oppose",
+            "example": "彼らの結婚に反対する \n oppose their marriage",
+            "japanese": "~に反対する"
+        },
+        {
+            "english": "trust",
+            "example": "古い友達を信用する \n trust an old friend",
+            "japanese": "~を信用する"
+        },
+        {
+            "english": "select",
+            "example": "最良の答えを選ぶ \n select the best answer",
+            "japanese": "~を選ぶ"
+        },
+        {
+            "english": "praise",
+            "example": "仕事のことで彼をほめる \n praise him for his work",
+            "japanese": "~をほめる"
+        },
+        {
+            "english": "handle",
+            "example": "どう問題に対処すべきか \n how to handle problems",
+            "japanese": "~に対処する, ~にさわる"
+        },
+        {
+            "english": "propose",
+            "example": "新しいやり方を提案する \n propose a new way",
+            "japanese": "~を提案する"
+        },
+        {
+            "english": "breathe",
+            "example": "新鮮な空気を呼吸する \n breathe fresh air",
+            "japanese": "~を呼吸する"
+        },
+        {
+            "english": "criticize",
+            "example": "遅刻したことで彼を非難する \n criticize him for being late",
+            "japanese": "~を非難する, ~を批判する"
+        },
+        {
+            "english": "overcome",
+            "example": "死の恐怖に打ち勝つ \n overcome the fear of death",
+            "japanese": "~に打ち勝つ, ~を克服する"
+        },
+        {
+            "english": "possess",
+            "example": "大きな力を持っている \n possess great power",
+            "japanese": "~を持っている"
+        },
+        {
+            "english": "predict",
+            "example": "未来を予言する \n predict the future",
+            "japanese": "~を予言する, ~を予測する"
+        },
+        {
+            "english": "publish",
+            "example": "本を出版する \n publish a book",
+            "japanese": "~を出版する, ~を発表する"
+        },
+        {
+            "english": "purchase",
+            "example": "新しい車を買う \n purchase a new car",
+            "japanese": "~を買う"
+        },
+        {
+            "english": "recall",
+            "example": "古き良き時代を思い出す \n recall the good old days",
+            "japanese": "~を思い出す"
+        },
+        {
+            "english": "explore",
+            "example": "アマゾン川を探検する \n explore the Amazon River",
+            "japanese": "~を探検する, ~を探求する"
+        },
+        {
+            "english": "stare",
+            "example": "立ち止まって彼女をじっと見る \n stop and stare at her",
+            "japanese": "じっと見る"
+        },
+        {
+            "english": "absorb",
+            "example": "大量の水を吸収する \n absorb a lot of water",
+            "japanese": "~を吸収する, ~に没頭する"
+        },
+        {
+            "english": "resemble",
+            "example": "彼は父親に似ている \n He resembles his father",
+            "japanese": "~に似ている"
+        },
+        {
+            "english": "tear",
+            "example": "ずたずたに手紙を引き裂く \n tear the letter to pieces",
+            "japanese": "~を引き裂く, 裂ける"
+        },
+        {
+            "english": "consume",
+            "example": "多量のエネルギーを消費する \n consume a lot of energy",
+            "japanese": "~を消費する"
+        },
+        {
+            "english": "compete",
+            "example": "金メダルを目指して彼と競争する \n compete with him for the gold medal",
+            "japanese": "競争する, 匹敵する"
+        },
+        {
+            "english": "quit",
+            "example": "タバコをやめる \n quit smoking",
+            "japanese": "~をやめる"
+        },
+        {
+            "english": "announce",
+            "example": "新しい計画を発表する \n announce a new plan",
+            "japanese": "~を発表する, ~を知らせる"
+        },
+        {
+            "english": "react",
+            "example": "光に素早く反応する \n react quickly to light",
+            "japanese": "反応する, 反発する"
+        },
+        {
+            "english": "wander",
+            "example": "街を歩き回る \n wander around the streets",
+            "japanese": "歩き回る, ぶらつく"
+        },
+        {
+            "english": "emphasize",
+            "example": "健康の大切さを強調する \n emphasize the importance of health",
+            "japanese": "~を強調する"
+        },
+        {
+            "english": "generate",
+            "example": "電力を生み出す \n generate electricity",
+            "japanese": "~を生み出す"
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spring Boot with Dropdown</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+        }
+        h1 {
+            color: #333;
+            margin-top: 50px;
+        }
+        p {
+            color: #555;
+            font-size: 1.2em;
+        }
+        .form-container {
+            margin-top: 30px;
+        }
+        select, button {
+            padding: 10px;
+            font-size: 1.2em;
+            margin-right: 10px;
+        }
+        .result {
+            margin-top: 20px;
+            font-size: 1.5em;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to Spring Boot with Dropdown!</h1>
+    <p>Select a name and receive a greeting from the server.</p>
+    
+    <!-- ドロップダウンリスト -->
+    <div class="form-container">
+		<label for="chapter">Select Chapter:</label>
+        <select id="chapter">
+            <option value="Chapter1">Chapter1</option>
+            <option value="Chapter2">Chapter2</option>
+            <option value="Chapter3">Chapter3</option>
+        </select>
+    </div>
+	<div class="form-container">
+        <select id="direction">
+            <option value="e-to-j">英 -> 日</option>
+            <option value="j-to-e">日 -> 英</option>
+        </select>
+    </div>
+	<div class="form-container">
+        <select id="size">
+            <option value="size10">10問</option>
+            <option value="size20">20問</option>
+            <option value="size30">30問</option>
+			<option value="size40">40問</option>
+            <option value="size50">50問</option>
+        </select>
+    </div>
+	<div class="form-container">
+		<form id="submitButton" action="/test" method="post">
+			<button type="button" onclick="submitName()">Submit</button>
+		</form>
+	</div>
+	<div class="form-container">
+		<form id="listButton" action="/list" method="post">
+			<button type="button" onclick="callList()">list</button>
+		</form> 
+	</div>
+    <!-- サーバーからのレスポンスを表示 -->
+    <div class="result" id="result"></div>
+    
+    <script>
+        function submitName() {
+            // 選択された名前を取得
+            const chapter = document.getElementById('chapter').value;
+			const direction = document.getElementById('direction').value;
+			const size = document.getElementById('size').value;
+			console.log(new URLSearchParams({ 'chapter': chapter, 'direction': direction, 'size': size }).toString());
+            // fetchを使ってPOSTリクエストを送信
+            fetch('/test', {
+                method: 'POST',  // POSTリクエスト
+                headers: {
+                    'Content-Type': 'application/x-www-form-urlencoded',  // フォームデータとして送信
+                },
+                body: new URLSearchParams({
+                    'chapter': chapter,  // 送信するパラメータ
+					'direction' : direction,
+					'size' : size
+                })
+            })
+            .then(response => response.text())  // レスポンスをテキストとして受け取る
+            .then(data => {
+                document.getElementById('result').innerText = data;
+            })
+            .catch(error => {
+                console.error('Error:', error);
+            });
+        }
+
+		function callList(){
+			fetch('/list', {
+				method: 'POST',
+				headers: {
+                    'Content-Type': 'application/x-www-form-urlencoded',  // フォームデータとして送信
+                }
+			})
+			.then(response => response.text())
+			.catch(error => {
+				console.error('Error:', error);
+			});
+		}
+    </script>
+</body>
+</html>

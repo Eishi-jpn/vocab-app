@@ -1,0 +1,770 @@
+
+{
+    "list": [
+        {
+            "english": "guilty",
+            "example": "彼を捨てたことに罪の意識をかんじる \n feel guilty about leaving him",
+            "japanese": "有罪の, 罪の意識がある"
+        },
+        {
+            "english": "vital",
+            "example": "重要な役割を果たす \n play a vital role",
+            "japanese": "極めて重要な, 必要な, 活気のある"
+        },
+        {
+            "english": "rough",
+            "example": "大ざっぱなスケッチ \n a routh sketch",
+            "japanese": "荒い, 手荒い, 大ざっぱな"
+        },
+        {
+            "english": "contemporary",
+            "example": "現代の日本社会 \n contemporary Japanese society",
+            "japanese": "現代の"
+        },
+        {
+            "english": "annual",
+            "example": "彼の年収 \n his annual income",
+            "japanese": "年に一度の, 一年間の"
+        },
+        {
+            "english": "accustomed",
+            "example": "車の運転に慣れる \n become accustomed to driving",
+            "japanese": "慣れた"
+        },
+        {
+            "english": "steady",
+            "example": "着実な経済成長 \n steady economic growth",
+            "japanese": "しっかりとした"
+        },
+        {
+            "english": "dull",
+            "example": "とても退屈な仕事 \n very dull work",
+            "japanese": "(人を)退屈させる"
+        },
+        {
+            "english": "keen",
+            "example": "芸術に対する鋭い目 \n a keen eye for art",
+            "japanese": "(刃物などが)鋭い"
+        },
+        {
+            "english": "loose",
+            "example": "ゆったりとした服を着る \n wear loose clothes",
+            "japanese": "ゆるい"
+        },
+        {
+            "english": "delicate",
+            "example": "自然界の微妙なバランス \n the delicate balance of nature",
+            "japanese": "繊細な, (問題など)微妙で難しい"
+        },
+        {
+            "english": "internal",
+            "example": "内科 \n internal medicine",
+            "japanese": "内部の, 国内の"
+        },
+        {
+            "english": "casual",
+            "example": "気楽な服装をする \n wear casual clothes",
+            "japanese": "形式ばらない, 気楽な"
+        },
+        {
+            "english": "mature",
+            "example": "成熟した大人 \n mature adults",
+            "japanese": "成熟した"
+        },
+        {
+            "english": "concrete",
+            "example": "具体的な例をあげる \n give a concrete example",
+            "japanese": "具体的な"
+        },
+        {
+            "english": "awful",
+            "example": "なんてひどい \n How awful",
+            "japanese": "ひどい"
+        },
+        {
+            "english": "senior",
+            "example": "クラブの先輩の部員 \n a senior member of the club",
+            "japanese": "(役職などが)上級の, 先輩の"
+        },
+        {
+            "english": "overall",
+            "example": "全体的な計画の一部 \n part of an overall plan",
+            "japanese": "全面的な, 全体的な"
+        },
+        {
+            "english": "tight",
+            "example": "きついジーンズ \n tight jeans",
+            "japanese": "引き締まった, (服などが)きつい"
+        },
+        {
+            "english": "prime",
+            "example": "主要な原因 \n the prime cause",
+            "japanese": "最も重要な, 主要な"
+        },
+        {
+            "english": "genuine",
+            "example": "科学に対する真の感心 \n genuine interest in science",
+            "japanese": "本物の, 真の, 心からの"
+        },
+        {
+            "english": "modest",
+            "example": "控えめな服装 \n a modest dress",
+            "japanese": "控えめな, 謙虚な, 質素な, 少しの, わずかな"
+        },
+        {
+            "english": "intimate",
+            "example": "親密な関係 \n an intimate relationship",
+            "japanese": "親密な"
+        },
+        {
+            "english": "relevant",
+            "example": "その問題に関係がある \n be relevant to the question",
+            "japanese": "関連のある"
+        },
+        {
+            "english": "inclined",
+            "example": "彼の言葉を信じたい気がする \n I am inclined to believe him",
+            "japanese": "~する傾向がある, ~したい気分がある"
+        },
+        {
+            "english": "awkward",
+            "example": "気まずい沈黙 \n an awkward silence",
+            "japanese": "(状況などが)きまずい"
+        },
+        {
+            "english": "brilliant",
+            "example": "それはすばらしいアイデアだ \n That's a brilliant idea",
+            "japanese": "すばらしい"
+        },
+        {
+            "english": "desperate",
+            "example": "必死の試み \n a desperate attempt",
+            "japanese": "(人・努力が)必死の"
+        },
+        {
+            "english": "refreshing",
+            "example": "さわやかな飲み物 \n a refreshing drink",
+            "japanese": "さわやかな"
+        },
+        {
+            "english": "miserable",
+            "example": "みじめな生活 \n a miserable life",
+            "japanese": "みじめな"
+        },
+        {
+            "english": "substantial",
+            "example": "多くの人々 \n a substantial number of people",
+            "japanese": "たくさんの, 多大な, 実質的な, 重要な"
+        },
+        {
+            "english": "consistent",
+            "example": "理論と一致する \n be consistent with the theory",
+            "japanese": "矛盾のない, 一致した"
+        },
+        {
+            "english": "plain",
+            "example": "その本は平易な英語で書かれている \n The book is written in plain English",
+            "japanese": "明白な, 簡素な"
+        },
+        {
+            "english": "vivid",
+            "example": "鮮やかな思い出がある \n have vivid memories",
+            "japanese": "鮮やかな"
+        },
+        {
+            "english": "thrilled",
+            "example": "君の声が聞けてとてもうれしい \n I'm thrilled to hear your voice",
+            "japanese": "(人が)とてもうれしい"
+        },
+        {
+            "english": "inner",
+            "example": "彼女の内なる自分 \n her inner self",
+            "japanese": "内側の"
+        },
+        {
+            "english": "fond",
+            "example": "彼女は読書が大好きだ \n She is very fond of reading",
+            "japanese": "Aが好きだ"
+        },
+        {
+            "english": "precisely",
+            "example": "ちょうど正午に \n precisely at noon",
+            "japanese": "正確に, まさに, ちょうど"
+        },
+        {
+            "english": "meanwhile",
+            "example": "彼女は料理をしていた, その間, 私は酒を飲んでいた \n she was cooking, meanwhile, I was drinking",
+            "japanese": "その間に"
+        },
+        {
+            "english": "altogether",
+            "example": "完全に消滅する \n disappear altogether",
+            "japanese": "完全に"
+        },
+        {
+            "english": "lately",
+            "example": "最近彼に会いましたか \n Have you seen him lately?",
+            "japanese": "最近 "
+        },
+        {
+            "english": "barely",
+            "example": "かろうじて戦争を生き延びる \n barely survive the war",
+            "japanese": "かろうじて"
+        },
+        {
+            "english": "scarcely",
+            "example": "ほとんど信じられなかった \n I could scarcely believe it",
+            "japanese": "ほとんど~ない"
+        },
+        {
+            "english": "accordingly",
+            "example": "君は大人なのだからそれ相応に行動しなさい \n You're an adult, so act accordingly",
+            "japanese": "それ相応に"
+        },
+        {
+            "english": "deliberately",
+            "example": "彼をわざと無視する \n deliberately ignore him",
+            "japanese": "わざと"
+        },
+        {
+            "english": "beneath",
+            "example": "水面下で \n beneath the surface of the water",
+            "japanese": "~の下で"
+        },
+        {
+            "english": "lonely",
+            "example": "人ごみで孤独だと感じる \n feel lonely in the crowd",
+            "japanese": "孤独だ, ひとりぼっちの"
+        },
+        {
+            "english": "precious",
+            "example": "貴重な宝石 \n precious jewels",
+            "japanese": "貴重な, 高価な"
+        },
+        {
+            "english": "minor",
+            "example": "小さい問題 \n a minor problem",
+            "japanese": "小さい, 重要でない"
+        },
+        {
+            "english": "isolate",
+            "example": "世界から孤立している \n be isolated from the world",
+            "japanese": "孤立して "
+        },
+        {
+            "english": "generous",
+            "example": "気前の良い申し出 \n a generous offer",
+            "japanese": "気前の良い, たっぷりした"
+        },
+        {
+            "english": "tropical",
+            "example": "熱帯雨林 \n tropical rain forests",
+            "japanese": "熱帯の"
+        },
+        {
+            "english": "reluctant",
+            "example": "過去について話したがらない \n be reluctant to talk about the past",
+            "japanese": "~したがらない"
+        },
+        {
+            "english": "vague",
+            "example": "漠然とした不安感 \n a vague feeling of uneasiness",
+            "japanese": "漠然とした, はっきりしない"
+        },
+        {
+            "english": "principal",
+            "example": "ヨーロッパの主要な都市 \n the principal cities of Europe",
+            "japanese": "主要な"
+        },
+        {
+            "english": "numerous",
+            "example": "たくさんの種の鳥 \n numerous species of birds",
+            "japanese": "たくさんの"
+        },
+        {
+            "english": "rural",
+            "example": "小さな田舎の町に引っ越す \n move to a small rural town",
+            "japanese": "田舎の"
+        },
+        {
+            "english": "temporary",
+            "example": "一時的な記憶喪失 \n temporary loss of memory",
+            "japanese": "一時的な"
+        },
+        {
+            "english": "artificial",
+            "example": "人工知能 \n artificial intelligence",
+            "japanese": "人口の, 不自然な"
+        },
+        {
+            "english": "visible",
+            "example": "目に見える進歩をとげる \n make visible progress",
+            "japanese": "目に見える "
+        },
+        {
+            "english": "raw",
+            "example": "生の肉を食べる \n eat raw meat",
+            "japanese": "生の, 加工されていない"
+        },
+        {
+            "english": "remote",
+            "example": "へんぴな村に住む \n live in a remote village",
+            "japanese": "へんぴな, 遠い"
+        },
+        {
+            "english": "urgent",
+            "example": "緊急の行動を必要とする \n need urgent action",
+            "japanese": "緊急の"
+        },
+        {
+            "english": "silly",
+            "example": "ばかな冗談を言う \n tell silly jokes",
+            "japanese": "ばかな"
+        },
+        {
+            "english": "striking",
+            "example": "いちじるしい対照 \n a striking contrast",
+            "japanese": "いちじるしい"
+        },
+        {
+            "english": "adequate",
+            "example": "十分な食料を供給する \n provide adequate food",
+            "japanese": "十分な, 適切な"
+        },
+        {
+            "english": "extraordinary",
+            "example": "並外れた才能の持ち主 \n a man of extraordinary talent",
+            "japanese": "並外れた, 異常な"
+        },
+        {
+            "english": "odd",
+            "example": "おかしな二人 \n the odd couple",
+            "japanese": "おかしな, 奇妙な"
+        },
+        {
+            "english": "abstract",
+            "example": "抽象的な概念 \n an abstract concept",
+            "japanese": "抽象的な"
+        },
+        {
+            "english": "mutual",
+            "example": "相互の理解 \n mutual understanding",
+            "japanese": "相互の, 共通の"
+        },
+        {
+            "english": "excessive",
+            "example": "過度のアルコール摂取 \n excessive use of alcohol",
+            "japanese": "過度の"
+        },
+        {
+            "english": "ashamed",
+            "example": "自分が恥ずかしい \n I'm ashamed of myself",
+            "japanese": "恥ずかしい"
+        },
+        {
+            "english": "tremendous",
+            "example": "とてつもない量のエネルギー \n a tremendous amount of energy",
+            "japanese": "とてつもない, 大きな, 巨大な"
+        },
+        {
+            "english": "inevitable",
+            "example": "死は避けられない \n Death is inevitable",
+            "japanese": "避けられない, 必然的な"
+        },
+        {
+            "english": "pure",
+            "example": "純金 \n pure gold",
+            "japanese": "純粋な"
+        },
+        {
+            "english": "stable",
+            "example": "安定した状態 \n a stable condition",
+            "japanese": "安定した, 一定の"
+        },
+        {
+            "english": "indifferent",
+            "example": "政治に無関心だ \n be indifferent to politics",
+            "japanese": "無関心だ"
+        },
+        {
+            "english": "aggressive",
+            "example": "子どもの攻撃的な行動 \n children's aggressive behavior",
+            "japanese": "攻撃的な, 積極的な, 強引な"
+        },
+        {
+            "english": "ultimate",
+            "example": "究極の目標 \n the ultimate goal",
+            "japanese": "究極の, 最終の"
+        },
+        {
+            "english": "shy",
+            "example": "静かで内気な女の子 \n a quiet, shy girl",
+            "japanese": "内気な, 恥ずかしがりな"
+        },
+        {
+            "english": "solar",
+            "example": "太陽エネルギー \n solar energy",
+            "japanese": "太陽の"
+        },
+        {
+            "english": "profound",
+            "example": "深い意味 \n a profound meaning",
+            "japanese": "深い, (影響・変化などが)大きい"
+        },
+        {
+            "english": "subtle",
+            "example": "微妙な違い \n a subtle difference",
+            "japanese": "微妙な"
+        },
+        {
+            "english": "conservative",
+            "example": "保守党 \n the Conservative Party",
+            "japanese": "保守的な, 控えめな"
+        },
+        {
+            "english": "brave",
+            "example": "勇敢な若い兵士 \n a brave young soldier",
+            "japanese": "勇敢な"
+        },
+        {
+            "english": "intense",
+            "example": "強烈なプレッシャーを感じる \n feel intense pressure",
+            "japanese": "強烈な, (感心・感情が)強い, (競争などが)激しい"
+        },
+        {
+            "english": "fantastic",
+            "example": "すばらしい経験 \n a fantastic experience",
+            "japanese": "すばらしい, 空想の"
+        },
+        {
+            "english": "acid",
+            "example": "酸性雨 \n acid rain",
+            "japanese": "酸の"
+        },
+        {
+            "english": "cruel",
+            "example": "動物に対する残酷な仕打ち \n cruel treatment of animals",
+            "japanese": "残酷な"
+        },
+        {
+            "english": "rational",
+            "example": "理性的な思考 \n rational thought",
+            "japanese": "理性的な, 合理的な"
+        },
+        {
+            "english": "initial",
+            "example": "発達の最初の段階 \n the initial stages of development",
+            "japanese": "最初の"
+        },
+        {
+            "english": "rigid",
+            "example": "厳格な規則 \n rigid rules",
+            "japanese": "厳格な, 頑固な"
+        },
+        {
+            "english": "linguistic",
+            "example": "子どもの言語能力 \n the linguistic ability of children",
+            "japanese": "言語学の, 言語の"
+        },
+        {
+            "english": "crucial",
+            "example": "重大な役割を果たす \n play a crucial role",
+            "japanese": "重大な, 決定的な"
+        },
+        {
+            "english": "verbal",
+            "example": "言葉によるコミュニケーション \n verbal communication",
+            "japanese": "言葉による"
+        },
+        {
+            "english": "optimistic",
+            "example": "将来に関する楽観的な見方 \n an optimistic view of the future",
+            "japanese": "楽観的な"
+        },
+        {
+            "english": "flexible",
+            "example": "柔軟な頭を持っている \n have a flexible mind",
+            "japanese": "柔軟な, 変更可能な"
+        },
+        {
+            "english": "grateful",
+            "example": "君の助けに感謝している \n I'm grateful for your help",
+            "japanese": "感謝している"
+        },
+        {
+            "english": "lively",
+            "example": "生き生きとした会話 \n a lively conversation",
+            "japanese": "生き生きとした, 元気な"
+        },
+        {
+            "english": "overwhelming",
+            "example": "圧倒的な多数 \n an overwhelming majority",
+            "japanese": "圧倒的な"
+        },
+        {
+            "english": "abundant",
+            "example": "豊富な食糧供給 \n an abundant supply of food",
+            "japanese": "豊富な"
+        },
+        {
+            "english": "selfish",
+            "example": "利己的な態度 \n a selfish attitude",
+            "japanese": "利己的な"
+        },
+        {
+            "english": "ugly",
+            "example": "みにくいアヒルの子 \n an ugly ducking",
+            "japanese": "醜い, 不快な"
+        },
+        {
+            "english": "racial",
+            "example": "人種の違い \n racial differences",
+            "japanese": "人種の, 民族の"
+        },
+        {
+            "english": "prominent",
+            "example": "有名な科学者 \n a prominent scientist",
+            "japanese": "有名な, 目立った"
+        },
+        {
+            "english": "controversial",
+            "example": "物議を呼ぶ社会問題 \n a controversial social issue",
+            "japanese": "物議を呼ぶ, 意見が対立する"
+        },
+        {
+            "english": "federal",
+            "example": "連邦政府 \n the Federal Government",
+            "japanese": "連邦の"
+        },
+        {
+            "english": "ridiculous",
+            "example": "馬鹿げた間違い \n a ridiculous error",
+            "japanese": "馬鹿げた"
+        },
+        {
+            "english": "imaginary",
+            "example": "架空の国 \n an imaginary country",
+            "japanese": "架空の, 想像上の"
+        },
+        {
+            "english": "imaginative",
+            "example": "想像力豊かな作家 \n an imaginative writer",
+            "japanese": "想像力豊かな"
+        },
+        {
+            "english": "imaginable",
+            "example": "想像しうるあらゆる困難 \n every trouble imaginable",
+            "japanese": "想像しうる"
+        },
+        {
+            "english": "harsh",
+            "example": "厳しい人生の現実 \n the harsh realities of life",
+            "japanese": "厳しい, 無慈悲な"
+        },
+        {
+            "english": "random",
+            "example": "無作為の選択 \n a random choice",
+            "japanese": "無作為の, でたなめの, 手あたり次第の"
+        },
+        {
+            "english": "adolescent",
+            "example": "思春期の少年少女 \n adolescent boys and girls",
+            "japanese": "思春期の"
+        },
+        {
+            "english": "up-to-date",
+            "example": "最新の流行り \n up-to-date fashions",
+            "japanese": "最新の"
+        },
+        {
+            "english": "liberal",
+            "example": "自由主義の政治 \n liberal politics",
+            "japanese": "自由主義の"
+        },
+        {
+            "english": "prior",
+            "example": "戦争より前の時代 \n the period prior to the war",
+            "japanese": "前の"
+        },
+        {
+            "english": "moderate",
+            "example": "適度な運動をする \n do moderate exercise",
+            "japanese": "適度な, 節度ある, 控えめな"
+        },
+        {
+            "english": "fluent",
+            "example": "流ちょうなフランス語を話す \n speak fluent French",
+            "japanese": "流ちょうな"
+        },
+        {
+            "english": "elaborate",
+            "example": "手の込んだ脱走計画 \n an elaborate plan of escape",
+            "japanese": "手の込んだ, 複雑な"
+        },
+        {
+            "english": "incredible",
+            "example": "信じられない話 \n an incredible story",
+            "japanese": "信じられない, 途方もない"
+        },
+        {
+            "english": "radical",
+            "example": "根本的な変化 \n radical changes",
+            "japanese": "根本的な, 過激な"
+        },
+        {
+            "english": "manual",
+            "example": "手を使う仕事 \n manual work",
+            "japanese": "手を使う"
+        },
+        {
+            "english": "deaf",
+            "example": "耳が聞こえない人のための手話 \n sign language for deaf people",
+            "japanese": "耳が聞こえない"
+        },
+        {
+            "english": "medieval",
+            "example": "中世の城 \n a medieval castle",
+            "japanese": "中世の"
+        },
+        {
+            "english": "ecological",
+            "example": "生態系を保護する \n protect the ecological system",
+            "japanese": "自然環境の"
+        },
+        {
+            "english": "mobile",
+            "example": "流動的な社会 \n a mobile society",
+            "japanese": "流動的な, 動きのある"
+        },
+        {
+            "english": "ignorant",
+            "example": "その事実を知らない \n be ignorant of the fact",
+            "japanese": "知らない, 無知な"
+        },
+        {
+            "english": "immune",
+            "example": "人体の免疫機構 \n the body's immune system",
+            "japanese": "免疫の"
+        },
+        {
+            "english": "definitely",
+            "example": "絶対あなたとは結婚しない \n I will definitely not marry you",
+            "japanese": "絶対, はっきり, 確かに, (返事で)そのとおり"
+        },
+        {
+            "english": "virtually",
+            "example": "ほとんどすべての女性 \n virtually every woman",
+            "japanese": "ほとんど, 事実上"
+        },
+        {
+            "english": "approximately",
+            "example": "およそ一万年前 \n approximately 10,000 years ago",
+            "japanese": "およそ"
+        },
+        {
+            "english": "instantly",
+            "example": "即死する \n die instantly",
+            "japanese": "即, すぐに"
+        },
+        {
+            "english": "literally",
+            "example": "そこには文字通り何もなかった \n There's literally nothing there",
+            "japanese": "文字通り"
+        },
+        {
+            "english": "literal",
+            "example": "その語の文字通りの意味 \n the literal meaning of the word",
+            "japanese": "文字通りの"
+        },
+        {
+            "english": "literary",
+            "example": "文学の歴史 \n literary history",
+            "japanese": "文学の"
+        },
+        {
+            "english": "literate",
+            "example": "読み書きのできるインド人 \n literate people in India",
+            "japanese": "読み書きのできる"
+        },
+        {
+            "english": "seemingly",
+            "example": "一見不可能な仕事 \n a seemingly impossible task",
+            "japanese": "一見"
+        },
+        {
+            "english": "regardless",
+            "example": "年齢に関係なく \n regardless of age",
+            "japanese": "関係なく"
+        },
+        {
+            "english": "thoroughly",
+            "example": "パーティを徹底的に楽しむ \n thoroughly enjoy the party",
+            "japanese": "徹底的に, 完全に"
+        },
+        {
+            "english": "afterwards",
+            "example": "その後すぐ彼は去った \n Soon afterwards, he left",
+            "japanese": "その後, のちに"
+        },
+        {
+            "english": "minimum",
+            "example": "最小の努力 \n minimum effort",
+            "japanese": "最小限の"
+        },
+        {
+            "english": "sophisticated",
+            "example": "高度なコンピュータ技術 \n sophisticated computer technology",
+            "japanese": "高度な, 洗練された"
+        },
+        {
+            "english": "latter",
+            "example": "犬と猫を飼っているが, 後者の方が大きい \n I have a dog and a cat, the latter is bigger",
+            "japanese": "後者の"
+        },
+        {
+            "english": "bitter",
+            "example": "苦い経験 \n a bitter experience",
+            "japanese": "苦い, つらい, 腹を立てた"
+        },
+        {
+            "english": "peculiar",
+            "example": "英語特有の表現 \n expressions peculiar to English",
+            "japanese": "独特の, 固有の"
+        },
+        {
+            "english": "passive",
+            "example": "消極的な態度 \n a passive attitude",
+            "japanese": "受動的な, 消極的な"
+        },
+        {
+            "english": "ethnic",
+            "example": "異なる民族集団 \n different ethnic groups",
+            "japanese": "民族的な, 民族の"
+        },
+        {
+            "english": "noble",
+            "example": "高貴な生まれの人 \n a person of noble birth",
+            "japanese": "高貴な"
+        },
+        {
+            "english": "vain",
+            "example": "無駄な努力をする \n make a vain effort",
+            "japanese": "無駄な"
+        },
+        {
+            "english": "innocent",
+            "example": "罪のない人々を殺す \n kill innocent people",
+            "japanese": "無罪の, 罪のない, 無邪気な"
+        },
+        {
+            "english": "underlying",
+            "example": "根本的な原因 \n the underlying cause",
+            "japanese": "根本的な"
+        },
+        {
+            "english": "alien",
+            "example": "異質な文化 \n an alien culture",
+            "japanese": "外国の, 異質な"
+        }
+    ]
+}
