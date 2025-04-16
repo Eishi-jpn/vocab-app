@@ -204,11 +204,11 @@
 	}
 
 	h1 {
-		font-size: 1.8em;
+		font-size: 1.6em;
 	}
 	
 	h2 {
-		font-size: 1.5em;
+		font-size: 1.4em;
 	}
 	
 	h3 {
@@ -218,6 +218,8 @@
 	table {
 	  width: 100%;
 	  font-size: 0.9em;
+	  margin: 0 auto;
+	  text-align: center;
 	}
   
 	.radio_input {
@@ -226,7 +228,7 @@
 	}
 
 	.radio_input-LabelText {
-		font-size: 1.1em;
+		font-size: 1em;
 	}
 	/*.radio_input {
 	  display: block;
@@ -240,7 +242,7 @@
 	}
   
 	button {
-	  font-size: 1.1em;
+	  font-size: 1em;
 	  padding: 10px 20px;
 	}
   }
