@@ -199,9 +199,20 @@
 
 /* スマホ対応 */
 @media screen and (max-width: 600px) {
-	h1, h2, h3 {
-	  font-size: 1.2em;
-	  text-align: center;
+	body {
+		font-size: 18px; /* デフォルトを少し大きく */
+	}
+
+	h1 {
+		font-size: 1.8em;
+	}
+	
+	h2 {
+		font-size: 1.5em;
+	}
+	
+	h3 {
+		font-size: 1.2em;
 	}
   
 	table {
@@ -215,7 +226,7 @@
 	}
 
 	.radio_input-LabelText {
-		font-size: 1em;
+		font-size: 1.1em;
 	}
 	/*.radio_input {
 	  display: block;
@@ -229,7 +240,7 @@
 	}
   
 	button {
-	  font-size: 1em;
+	  font-size: 1.1em;
 	  padding: 10px 20px;
 	}
   }
