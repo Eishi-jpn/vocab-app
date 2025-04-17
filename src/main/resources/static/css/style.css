@@ -34,7 +34,7 @@
 
 
 .radio_input {
-	padding: 10px;
+	padding: 6px;
 	display: flex;
 	align-items: center;
 	cursor: pointer;
@@ -79,9 +79,9 @@
 	/*top: 0;
 	left: 0;*/
 	display: block;
-	width: 24px;
-	height: 24px;
-	margin-right: 15px;
+	width: 16px;
+	height: 16px;
+	margin-right: 10px;
 	border: 2px solid #2589d0;
 	border-radius: 50%;
 	background-color: #fff;
