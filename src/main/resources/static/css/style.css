@@ -215,17 +215,17 @@
 		font-size: 1.2em;
 	}
   
-	table {
+	/*table {
 	  width: 100%;
 	  font-size: 0.9em;
 	  margin: 0 auto;
 	  text-align: center;
-	}
+	}*/
   
-	.radio_input {
+	/*.radio_input {
 		padding: 15px;
 		min-height: 70px;
-	}
+	}*/
 
 	.radio_input-LabelText {
 		font-size: 1em;
