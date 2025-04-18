@@ -216,12 +216,12 @@
 		font-size: 1.2em;
 	}
   
-	/*table {
-	  width: 100%;
+	table {
+	  /*width: 100%;
 	  font-size: 0.9em;
-	  margin: 0 auto;
-	  text-align: center;
-	}*/
+	  margin: 0 auto;*/
+	  text-align: left;
+	}
   
 	/*.radio_input {
 		padding: 15px;
