@@ -36,7 +36,7 @@
 .radio_input {
 	padding: 10px;
 	display: flex;
-	justify-content: flex-start;
+	padding-right:10px;
 	cursor: pointer;
 	border: 2px solid #2589d0;
     border-radius: 5px;
