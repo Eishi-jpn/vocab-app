@@ -1,0 +1,1025 @@
+
+{
+    "list": [
+        {
+            "english": "sphere",
+            "example": "幅広い活動範囲 \n a wide sphere of activity",
+            "japanese": "領域, 範囲"
+        },
+        {
+            "english": "sequence",
+            "example": "一連の事件 \n a sequence of events",
+            "japanese": "連続(するもの), 順序, 順番"
+        },
+        {
+            "english": "deposit",
+            "example": "多額の銀行預金 \n a large deposit in the bank",
+            "japanese": "預金, 頭金, 堆積物"
+        },
+        {
+            "english": "poll",
+            "example": "世論調査 \n an opinion poll",
+            "japanese": "世論調査, 投票"
+        },
+        {
+            "english": "caution",
+            "example": "用心して行動する \n act with caution",
+            "japanese": "用心"
+        },
+        {
+            "english": "rage",
+            "example": "激しい怒りを感じる \n feel a great rage",
+            "japanese": "激怒, 怒り"
+        },
+        {
+            "english": "formula",
+            "example": "彼の成功の秘訣 \n his formula for success",
+            "japanese": "方法, 秘訣, 解決策, 式, 公式"
+        },
+        {
+            "english": "plot",
+            "example": "その映画の筋 \n the plot of the movie",
+            "japanese": "(小説・演劇などの)筋, 陰謀, たくらみ"
+        },
+        {
+            "english": "scope",
+            "example": "科学の範囲を超えて \n beyond the scope of science",
+            "japanese": "範囲"
+        },
+        {
+            "english": "norm",
+            "example": "社会的に認められた規範 \n the socially accepted norm",
+            "japanese": "(ある社会の)規範"
+        },
+        {
+            "english": "disgust",
+            "example": "その写真に嫌悪感を抱く \n feel disgust at the picture",
+            "japanese": "嫌悪"
+        },
+        {
+            "english": "canal",
+            "example": "パナマ運河 \n the Panama Canal",
+            "japanese": "運河"
+        },
+        {
+            "english": "curse",
+            "example": "酒は彼にとって災いのもとだ \n Drinking is his curse",
+            "japanese": "災いのもと, 呪い"
+        },
+        {
+            "english": "paradox",
+            "example": "奇妙な逆説 \n a strange paradox",
+            "japanese": "逆説"
+        },
+        {
+            "english": "tissue",
+            "example": "神経組織 \n nerve tissue",
+            "japanese": "(動植物の細胞から成る)組織"
+        },
+        {
+            "english": "breakdown",
+            "example": "家庭の崩壊 \n the breakdown of the family",
+            "japanese": "(組織・関係等の)崩壊"
+        },
+        {
+            "english": "initiative",
+            "example": "会話で主導権を握る \n take the initiative in conversation",
+            "japanese": "主導権, 自発性, 独創性"
+        },
+        {
+            "english": "fabric",
+            "example": "日本の社会組織 \n the social fabric of Japan",
+            "japanese": "織物, 布, 組織, 構造"
+        },
+        {
+            "english": "publicity",
+            "example": "新聞広告 \n newspaper publicity",
+            "japanese": "宣伝, 広告"
+        },
+        {
+            "english": "summit",
+            "example": "頂上に達する \n reach the summit",
+            "japanese": "頂上, 頂点, 首脳会議"
+        },
+        {
+            "english": "flock",
+            "example": "白い羊の群れ \n a flock of white sheep",
+            "japanese": "(鳥・羊などの)群れ"
+        },
+        {
+            "english": "plague",
+            "example": "エイズという現代の疫病 \n the modern plague of AIDS",
+            "japanese": "疫病"
+        },
+        {
+            "english": "haste",
+            "example": "あわてて手紙を書く \n write a letter in haste",
+            "japanese": "急ぐこと"
+        },
+        {
+            "english": "nap",
+            "example": "午後にうたた寝する \n take a nap in the afternoon",
+            "japanese": "うたた寝"
+        },
+        {
+            "english": "ally",
+            "example": "アメリカとその同盟国 \n America and its allies",
+            "japanese": "同盟国"
+        },
+        {
+            "english": "draft",
+            "example": "彼の小説の最初の草稿 \n the first draft of his novel",
+            "japanese": "下書き, 草稿"
+        },
+        {
+            "english": "spectacle",
+            "example": "劇的な光景 \n a dramastic spectacle",
+            "japanese": "光景"
+        },
+        {
+            "english": "premise",
+            "example": "大前提 \n the major premise",
+            "japanese": "前提"
+        },
+        {
+            "english": "asset",
+            "example": "価値ある財産 \n a valuable asset",
+            "japanese": "財産"
+        },
+        {
+            "english": "lag",
+            "example": "時差ボケで苦しむ \n suffer from jet lag",
+            "japanese": "遅れ"
+        },
+        {
+            "english": "therapy",
+            "example": "遺伝子療法 \n gene therapy",
+            "japanese": "療法, 治療法"
+        },
+        {
+            "english": "reception",
+            "example": "あたたかいもてなしを受ける \n receive a warn reception",
+            "japanese": "もてなし"
+        },
+        {
+            "english": "compound",
+            "example": "元素と化合物 \n elements and compounds",
+            "japanese": "化合物"
+        },
+        {
+            "english": "blessing",
+            "example": "自然の恵み \n the blessings of nature",
+            "japanese": "ありがたいもの, 恵み"
+        },
+        {
+            "english": "sensation",
+            "example": "跳んでいるような感覚 \n the sensation of flying",
+            "japanese": "感覚, 感じ"
+        },
+        {
+            "english": "recession",
+            "example": "最悪の不況 \n the worst economic recession",
+            "japanese": "不景気, 不況"
+        },
+        {
+            "english": "pole",
+            "example": "北極 \n the North Pole",
+            "japanese": "棒, (天体の)極"
+        },
+        {
+            "english": "outlook",
+            "example": "人生に対する考え方 \n a positive outlook on life",
+            "japanese": "考え方, 態度, 見通し, 見込み"
+        },
+        {
+            "english": "endeavor",
+            "example": "人間活動のあらゆる分野 \n every field of human endeavor",
+            "japanese": "活動"
+        },
+        {
+            "english": "mercy",
+            "example": "情け容赦のない戦争 \n war without mercy",
+            "japanese": "慈悲, 情け"
+        },
+        {
+            "english": "counterpart",
+            "example": "中国の子供は日本の子供よりよく勉強する \n Chinese children work harder than their Japanese counterparts",
+            "japanese": "Aに相当するもの"
+        },
+        {
+            "english": "session",
+            "example": "訓練期間 \n a training session",
+            "japanese": "(ある活動の)期間, 討論"
+        },
+        {
+            "english": "pill",
+            "example": "睡眠薬を飲む \n take sleeping pills",
+            "japanese": "錠剤"
+        },
+        {
+            "english": "junk",
+            "example": "ジャンクフードを避ける \n avoid junk food",
+            "japanese": "くず, がらくた"
+        },
+        {
+            "english": "fatigue",
+            "example": "精神疲労 \n mental fatigue",
+            "japanese": "疲労"
+        },
+        {
+            "english": "fame",
+            "example": "名声と富を得る \n win fame and fortune",
+            "japanese": "名声, 評判"
+        },
+        {
+            "english": "mess",
+            "example": "部屋の中がめちゃくちゃだ \n The room is mess",
+            "japanese": "めちゃくちゃ, 混乱"
+        },
+        {
+            "english": "decay",
+            "example": "死体の腐敗を防ぐ \n prevent the decay of the body",
+            "japanese": "腐敗, 衰退"
+        },
+        {
+            "english": "dignity",
+            "example": "尊厳死 \n death with dignity",
+            "japanese": "尊厳, 威厳, 気品"
+        },
+        {
+            "english": "compromise",
+            "example": "彼との妥協に達する \n reach a compromise with him",
+            "japanese": "妥協"
+        },
+        {
+            "english": "drought",
+            "example": "アフリカの長い干ばつ \n a long drought in Africa",
+            "japanese": "干ばつ"
+        },
+        {
+            "english": "despair",
+            "example": "絶望してあきらめる \n give up in despair",
+            "japanese": "絶望"
+        },
+        {
+            "english": "interval",
+            "example": "10分の間隔で \n at intervals of ten minutes",
+            "japanese": "間隔, へだたり"
+        },
+        {
+            "english": "luggage",
+            "example": "彼が荷物を持つのを手伝う \n help him with his luggage",
+            "japanese": "荷物"
+        },
+        {
+            "english": "blossom",
+            "example": "サクラの花 \n cherry blossoms",
+            "japanese": "花"
+        },
+        {
+            "english": "impulse",
+            "example": "叫びたい衝動を感じる \n feel an impulse to shout",
+            "japanese": "衝動, 欲求"
+        },
+        {
+            "english": "hatred",
+            "example": "外国人に対する憎しみ \n hatred of foreigners",
+            "japanese": "憎しみ"
+        },
+        {
+            "english": "beast",
+            "example": "美女と野獣 \n beauty and the beast",
+            "japanese": "野獣"
+        },
+        {
+            "english": "superstition",
+            "example": "ばかげた迷信を信じる \n believe a foolish superstition",
+            "japanese": "迷信"
+        },
+        {
+            "english": "illusion",
+            "example": "日本が安全だという幻想 \n the illusion that Japan is safe",
+            "japanese": "幻想"
+        },
+        {
+            "english": "thread",
+            "example": "木綿の糸 \n cotton thread",
+            "japanese": "糸"
+        },
+        {
+            "english": "plow",
+            "example": "すきを持った農民 \n a farmer with his plow",
+            "japanese": "すき, スコップ"
+        },
+        {
+            "english": "feast",
+            "example": "宴会に客を招待する \n invite guests to the feast",
+            "japanese": "宴会, 祝祭"
+        },
+        {
+            "english": "transition",
+            "example": "季節の移り変わり \n a seasonal transition",
+            "japanese": "移り変わり, 推移, 変化"
+        },
+        {
+            "english": "misery",
+            "example": "戦争の悲惨さ \n the misery of war",
+            "japanese": "悲惨さ, みじめさ, 不幸"
+        },
+        {
+            "english": "radiation",
+            "example": "危険な放射線 \n dangerous radiation",
+            "japanese": "放射線, (光・熱などの)放射(能), 発散"
+        },
+        {
+            "english": "log",
+            "example": "丸太小屋 \n a log cabin",
+            "japanese": "丸太"
+        },
+        {
+            "english": "consensus",
+            "example": "その問題で合意に達する \n reach consensus on the issue",
+            "japanese": "合意"
+        },
+        {
+            "english": "deed",
+            "example": "1日に1つ良い行動をする \n do a good deed a day",
+            "japanese": "行い, (言葉に対する)行為"
+        },
+        {
+            "english": "proverb",
+            "example": "古い中国のことわざ \n an old Chinese proverb",
+            "japanese": "ことわざ"
+        },
+        {
+            "english": "compliment",
+            "example": "ほめ言葉をありがとう \n Thank you for the compliment",
+            "japanese": "ほめ言葉"
+        },
+        {
+            "english": "flame",
+            "example": "ろうそくの炎を見つめる \n watch the candle flame",
+            "japanese": "炎"
+        },
+        {
+            "english": "anniversary",
+            "example": "二人の結婚記念日を祝う \n celebrate their wedding anniversary",
+            "japanese": "記念日"
+        },
+        {
+            "english": "conscience",
+            "example": "自分の良心に従え \n Follow your conscience",
+            "japanese": "良心"
+        },
+        {
+            "english": "expedition",
+            "example": "月世界探索 \n an expedition to the moon",
+            "japanese": "探検, 遠出, 探検隊"
+        },
+        {
+            "english": "offspring",
+            "example": "子孫を作る \n produce offspring",
+            "japanese": "子孫"
+        },
+        {
+            "english": "allowance",
+            "example": "僕の毎月のこづかい \n my monthly allowance",
+            "japanese": "こづかい, 手当金, 仕送り"
+        },
+        {
+            "english": "headline",
+            "example": "新聞の大見出し \n a newspaper headline",
+            "japanese": "大見出し, 主なニュース項目"
+        },
+        {
+            "english": "treaty",
+            "example": "平和条約に署名する \n sign a peace treaty",
+            "japanese": "条約, (国家間の)協定"
+        },
+        {
+            "english": "monument",
+            "example": "歴史的な記念碑 \n a historical monument",
+            "japanese": "記念碑, 遺跡, 史跡"
+        },
+        {
+            "english": "worm",
+            "example": "りんごの中の虫 \n a worm in the apple",
+            "japanese": "虫"
+        },
+        {
+            "english": "remedy",
+            "example": "風邪のよい治療法 \n a good remedy for colds",
+            "japanese": "治療法, 薬, 改善策"
+        },
+        {
+            "english": "encyclopedia",
+            "example": "20巻の百科事典 \n a 20-volume encyclopedia",
+            "japanese": "百科事典"
+        },
+        {
+            "english": "glimpse",
+            "example": "彼女の顔がちらりと見える \n catch a glimpse of her face",
+            "japanese": "ちらっと(見える)"
+        },
+        {
+            "english": "personnel",
+            "example": "学校の職員 \n school personnel",
+            "japanese": "職員, 人事"
+        },
+        {
+            "english": "triumph",
+            "example": "科学の勝利 \n the triumph of science",
+            "japanese": "勝利, 大成功"
+        },
+        {
+            "english": "arithmetic",
+            "example": "読み書き算数 \n reading, writing, and arithmetic",
+            "japanese": "算数"
+        },
+        {
+            "english": "self-esteem",
+            "example": "自尊心の低い人々 \n people with low self-esteem",
+            "japanese": "自尊心, 自負"
+        },
+        {
+            "english": "fog",
+            "example": "濃い霧の中で迷う \n get lost in the thick fog",
+            "japanese": "霧"
+        },
+        {
+            "english": "odds",
+            "example": "ガンになる可能性 \n the odds of getting cancer",
+            "japanese": "可能性, 勝ち目, 賭け率"
+        },
+        {
+            "english": "chaos",
+            "example": "混沌とした社会 \n a society in chaos",
+            "japanese": "混沌, 無秩序"
+        },
+        {
+            "english": "destiny",
+            "example": "人類の運命を支配する \n control the destiny of mankind",
+            "japanese": "運命"
+        },
+        {
+            "english": "diameter",
+            "example": "直径5インチのディスク \n a disk five inches in diameter",
+            "japanese": "直径"
+        },
+        {
+            "english": "meadow",
+            "example": "緑の牧草地 \n the green meadow",
+            "japanese": "牧草地"
+        },
+        {
+            "english": "souvenir",
+            "example": "香港の土産物屋 \n a souvenir shop in Hong Kong",
+            "japanese": "お土産, 記念品"
+        },
+        {
+            "english": "trail",
+            "example": "山の小道を歩く \n walk along a mountain trail",
+            "japanese": "小道, 通った跡"
+        },
+        {
+            "english": "ratio",
+            "example": "10対1の比率 \n a ratio of 10 to 1",
+            "japanese": "比率"
+        },
+        {
+            "english": "sword",
+            "example": "剣で彼の首をはねる \n cut off his head with a sword",
+            "japanese": "剣"
+        },
+        {
+            "english": "realm",
+            "example": "科学の領域外 \n outside the realm of science",
+            "japanese": "領域, 分野"
+        },
+        {
+            "english": "sentiment",
+            "example": "反米感情 \n anti-American sentiment",
+            "japanese": "感情, 情操, 感傷"
+        },
+        {
+            "english": "chore",
+            "example": "家庭の雑用を分担する \n share household chores",
+            "japanese": "雑用, 日課, 家事"
+        },
+        {
+            "english": "courtesy",
+            "example": "礼儀正しい扱いを受ける \n be treated with courtesy",
+            "japanese": "礼儀正しい, 儀礼的あいさつ"
+        },
+        {
+            "english": "mayor",
+            "example": "ニューヨーク市長 \n the New York City mayor",
+            "japanese": "市長, 町(村)長"
+        },
+        {
+            "english": "reign",
+            "example": "ヴィクトリア女王の統治 \n Queen Wictoria's reign",
+            "japanese": "統治"
+        },
+        {
+            "english": "trash",
+            "example": "大きな黒いゴミ袋 \n a big black trash bag",
+            "japanese": "ゴミ, がらくた"
+        },
+        {
+            "english": "prestige",
+            "example": "富と名声を手に入れる \n gain wealth and prestige",
+            "japanese": "名声, 威信, 信望"
+        },
+        {
+            "english": "hierarchy",
+            "example": "階級制度の頂点 \n the top of the hierarchy",
+            "japanese": "階級制度, ヒエラルキー"
+        },
+        {
+            "english": "wilderness",
+            "example": "広大な荒野を探検する \n explore the vast wilderness",
+            "japanese": "荒野, 未開の地"
+        },
+        {
+            "english": "orbit",
+            "example": "太陽を回る地球の軌道 \n the earth's orbit around the sun",
+            "japanese": "軌道"
+        },
+        {
+            "english": "bias",
+            "example": "女性に対する偏見 \n bias against women",
+            "japanese": "偏見, えこひいき, 傾向"
+        },
+        {
+            "english": "republic",
+            "example": "アイルランド共和国 \n the Republic of Ireland",
+            "japanese": "共和国"
+        },
+        {
+            "english": "bargain",
+            "example": "この家は掘り出し物だ \n This house is a bargain",
+            "japanese": "掘り出し物, 値引き品"
+        },
+        {
+            "english": "contempt",
+            "example": "貧しい人々に対する軽蔑 \n contempt for the poor",
+            "japanese": "軽蔑, 侮辱"
+        },
+        {
+            "english": "fragment",
+            "example": "青いガラスの破片 \n a fragment of blue glass",
+            "japanese": "破片, 断片"
+        },
+        {
+            "english": "galaxy",
+            "example": "アンドロメダ星雲 \n the Andromeda Galaxy",
+            "japanese": "星雲, 銀河(系), 小宇宙"
+        },
+        {
+            "english": "lap",
+            "example": "母親のひざの上に座る \n sit on mother's lap",
+            "japanese": "ひざ"
+        },
+        {
+            "english": "deadline",
+            "example": "レポートの締め切り \n the deadline for the report",
+            "japanese": "締め切り"
+        },
+        {
+            "english": "bullet",
+            "example": "弾丸よりも速く \n faster than a bullet",
+            "japanese": "弾丸"
+        },
+        {
+            "english": "pedestrian",
+            "example": "歩行者の安全 \n the safety of pedestrians",
+            "japanese": "歩行者"
+        },
+        {
+            "english": "wit",
+            "example": "機知に富んだ会話 \n a conversation full of wit",
+            "japanese": "機知, ウィット"
+        },
+        {
+            "english": "nuisance",
+            "example": "他人の迷惑 \n a nuisance to others",
+            "japanese": "迷惑"
+        },
+        {
+            "english": "criteria",
+            "example": "安全基準を満たす \n meet the criteria for safety",
+            "japanese": "基準, 尺度"
+        },
+        {
+            "english": "hardship",
+            "example": "経済的苦難に直面する \n face economic hardship",
+            "japanese": "苦難"
+        },
+        {
+            "english": "glory",
+            "example": "大英帝国の栄光 \n the glory of the British Empire",
+            "japanese": "栄光, すばらしさ, 誇りとなるもの"
+        },
+        {
+            "english": "sin",
+            "example": "罪に対する罰 \n punishment for sin",
+            "japanese": "罪"
+        },
+        {
+            "english": "Navy",
+            "example": "英国海軍 \n the British Navy",
+            "japanese": "海軍"
+        },
+        {
+            "english": "script",
+            "example": "映画の台本 \n a movie script",
+            "japanese": "台本, 筆跡, 文字"
+        },
+        {
+            "english": "pension",
+            "example": "老齢年金 \n the old-age pension",
+            "japanese": "年金"
+        },
+        {
+            "english": "timber",
+            "example": "材木を切る \n cut timber",
+            "japanese": "材木, 木材"
+        },
+        {
+            "english": "surplus",
+            "example": "食料の余剰 \n a surplus of food",
+            "japanese": "余剰, 過剰"
+        },
+        {
+            "english": "moisture",
+            "example": "肌に水分を加える \n add moisture to the skin",
+            "japanese": "水分, 湿気"
+        },
+        {
+            "english": "peasant",
+            "example": "インドの貧しい小作農 \n poor peasants in India",
+            "japanese": "小作農"
+        },
+        {
+            "english": "garment",
+            "example": "絹の衣服を身に着ける \n wear a silk garment",
+            "japanese": "衣服"
+        },
+        {
+            "english": "textile",
+            "example": "織物工場 \n the textile industry",
+            "japanese": "織物"
+        },
+        {
+            "english": "tuition",
+            "example": "大学の授業料を支払う \n pay college tuition",
+            "japanese": "授業料, 授業, 指導"
+        },
+        {
+            "english": "troop",
+            "example": "日本の軍隊を海外に送る \n send Japanese troops abroad",
+            "japanese": "軍隊"
+        },
+        {
+            "english": "primate",
+            "example": "人間と他の霊長類 \n humans and other primates",
+            "japanese": "霊長類"
+        },
+        {
+            "english": "friction",
+            "example": "二国間の摩擦 \n friction between the two countries",
+            "japanese": "摩擦, 不和"
+        },
+        {
+            "english": "nephew",
+            "example": "彼の息子と甥 \n his son and nephew",
+            "japanese": "甥"
+        },
+        {
+            "english": "altitude",
+            "example": "高度3万フィートで \n at an altitude of 30,000 feet",
+            "japanese": "高度"
+        },
+        {
+            "english": "diagnosis",
+            "example": "病気の診断 \n the diagnosis of disease",
+            "japanese": "診断, (病気・問題の)分析"
+        },
+        {
+            "english": "commerce",
+            "example": "工業と商業 \n industry and commerce",
+            "japanese": "商業, 貿易, 商取引"
+        },
+        {
+            "english": "limb",
+            "example": "手足が長い \n have long limbs",
+            "japanese": "手足"
+        },
+        {
+            "english": "fraction",
+            "example": "その金のほんの一部 \n a small fraction of the money",
+            "japanese": "ほんの一部, 少量, 分数"
+        },
+        {
+            "english": "irony",
+            "example": "運命の皮肉 \n the irony of fate",
+            "japanese": "皮肉, 奇妙な事実"
+        },
+        {
+            "english": "nightmare",
+            "example": "悪夢を見る \n have a nightmare",
+            "japanese": "悪夢"
+        },
+        {
+            "english": "defect",
+            "example": "車の欠陥を見つける \n discover a defect in the car",
+            "japanese": "欠陥, 障害"
+        },
+        {
+            "english": "witch",
+            "example": "邪悪な魔女 \n an evil witch",
+            "japanese": "魔女"
+        },
+        {
+            "english": "scent",
+            "example": "バラの甘い香り \n the sweet scent of roses",
+            "japanese": "香り, におい"
+        },
+        {
+            "english": "erosion",
+            "example": "土壌の浸食を防ぐ \n prevent soil erosion",
+            "japanese": "浸食"
+        },
+        {
+            "english": "millionaire",
+            "example": "百万長者と結婚する方法 \n how to marry a millionaire",
+            "japanese": "百万長者"
+        },
+        {
+            "english": "skeleton",
+            "example": "人間の骨格 \n the human skeleton",
+            "japanese": "骨格, 骸骨"
+        },
+        {
+            "english": "grace",
+            "example": "彼女のしぐさの優雅さ \n the grace of her movements",
+            "japanese": "優雅さ, 気品"
+        },
+        {
+            "english": "landmark",
+            "example": "パリの名所を訪れる \n visit some Paris landmarks",
+            "japanese": "名所, 目印"
+        },
+        {
+            "english": "torture",
+            "example": "恐ろしい拷問に耐える \n endure terrible torture",
+            "japanese": "拷問, 苦痛"
+        },
+        {
+            "english": "flesh",
+            "example": "肉と血 \n flesh and blood",
+            "japanese": "肉, 肌"
+        },
+        {
+            "english": "collision",
+            "example": "地球との衝突 \n collision with the earth",
+            "japanese": "衝突"
+        },
+        {
+            "english": "hazard",
+            "example": "健康にとって危険なもの \n a hazard to health",
+            "japanese": "危険なもの"
+        },
+        {
+            "english": "tomb",
+            "example": "無名戦士の墓 \n the tomb of the unknown soldier",
+            "japanese": "墓"
+        },
+        {
+            "english": "brow",
+            "example": "彼の広い額 \n his broad brow",
+            "japanese": "額, 眉毛"
+        },
+        {
+            "english": "sightseeing",
+            "example": "ヴェニスに観光に行く \n go sightseeing in Venice",
+            "japanese": "観光, 見物"
+        },
+        {
+            "english": "leather",
+            "example": "革のカバン \n a leather bag",
+            "japanese": "革"
+        },
+        {
+            "english": "jewelry",
+            "example": "宝石店 \n a jewelry store",
+            "japanese": "宝石"
+        },
+        {
+            "english": "cue",
+            "example": "非言語的な合図を読み取る \n read nonverbal cues",
+            "japanese": "合図, 手がかり, きっかけ"
+        },
+        {
+            "english": "ambulance",
+            "example": "すぐに救急車を呼べ \n Call an ambulance right away",
+            "japanese": "救急車"
+        },
+        {
+            "english": "estate",
+            "example": "不動産業者 \n a real estate agent",
+            "japanese": "不動産, 所有地, 財産"
+        },
+        {
+            "english": "commodity",
+            "example": "輸出向けの商品 \n an export commodity",
+            "japanese": "商品, 日用品"
+        },
+        {
+            "english": "departure",
+            "example": "出発時刻を確認する \n check the departure time",
+            "japanese": "出発"
+        },
+        {
+            "english": "phase",
+            "example": "新しい段階に入る \n enter a new phase",
+            "japanese": "段階, 時期"
+        },
+        {
+            "english": "thief",
+            "example": "車泥棒 \n a car thief",
+            "japanese": "泥棒"
+        },
+        {
+            "english": "saint",
+            "example": "聖バレンタイン \n Saint Valentine",
+            "japanese": "聖, 聖人, 聖者"
+        },
+        {
+            "english": "consent",
+            "example": "親の同意なしに結婚する \n marry without my parents' consent",
+            "japanese": "同意, 承諾"
+        },
+        {
+            "english": "grief",
+            "example": "彼の死に深い悲しみを感じる \n feel deep grief over his death",
+            "japanese": "悲しみ"
+        },
+        {
+            "english": "lane",
+            "example": "追い越し車線を走る \n drive in the fast lane",
+            "japanese": "車線, 小道"
+        },
+        {
+            "english": "bulk",
+            "example": "人口の大部分 \n the bulk of the population",
+            "japanese": "大部分"
+        },
+        {
+            "english": "fluid",
+            "example": "体液の交換 \n the exchange of body fluids",
+            "japanese": "液, 流動体"
+        },
+        {
+            "english": "communist",
+            "example": "元共産主義の国々 \n former communist countries",
+            "japanese": "共産主義"
+        },
+        {
+            "english": "bride",
+            "example": "花嫁とその父 \n the bride and her father",
+            "japanese": "花嫁"
+        },
+        {
+            "english": "intervention",
+            "example": "イラクへの軍事介入 \n military intervention in Iraq",
+            "japanese": "介入, 干渉"
+        },
+        {
+            "english": "margin",
+            "example": "大差で勝つ \n win by a wide margin",
+            "japanese": "差, 票差, 余白, ふち"
+        },
+        {
+            "english": "biography",
+            "example": "アインシュタインの伝記 \n a biography of Einstein",
+            "japanese": "伝記"
+        },
+        {
+            "english": "sculpture",
+            "example": "絵と彫刻 \n painting and sculpture",
+            "japanese": "彫刻"
+        },
+        {
+            "english": "volcano",
+            "example": "噴煙を上げる火山 \n a smoking volcano",
+            "japanese": "火山"
+        },
+        {
+            "english": "rebel",
+            "example": "反政府の反逆者たち \n anti-government rebels",
+            "japanese": "反逆者"
+        },
+        {
+            "english": "metaphor",
+            "example": "「人類のるつぼ」という比喩 \n the metaphor of the \"melting pot\"",
+            "japanese": "比喩, 隠喩"
+        },
+        {
+            "english": "legislation",
+            "example": "銃規制の法律 \n gun control legislation",
+            "japanese": "法律, 立法, 法律制定"
+        },
+        {
+            "english": "lightning",
+            "example": "雷に打たれる \n be struck by lightning",
+            "japanese": "雷, 稲妻"
+        },
+        {
+            "english": "pesticide",
+            "example": "殺虫剤の使用 \n the use of pesticides",
+            "japanese": "殺虫剤, 除草剤"
+        },
+        {
+            "english": "column",
+            "example": "新聞のコラムを書く \n write a newspaper column",
+            "japanese": "コラム, 円柱"
+        },
+        {
+            "english": "rumor",
+            "example": "彼女のうわさを広める \n spread a rumor about her",
+            "japanese": "うわさ"
+        },
+        {
+            "english": "dust",
+            "example": "細かいほこりの粒子 \n tiny dust particles",
+            "japanese": "ほこり"
+        },
+        {
+            "english": "dialogue",
+            "example": "二人の学生の対話 \n a dialogue between two students",
+            "japanese": "対話"
+        },
+        {
+            "english": "kindergarten",
+            "example": "幼稚園で英語を学ぶ \n learn English in kindergarten",
+            "japanese": "幼稚園"
+        },
+        {
+            "english": "tourism",
+            "example": "日本の観光産業 \n the tourism industry in Japan",
+            "japanese": "観光"
+        },
+        {
+            "english": "obesity",
+            "example": "肥満の危険 \n the risk of obesity",
+            "japanese": "肥満"
+        },
+        {
+            "english": "patent",
+            "example": "新発明の特許を取る \n get a patent for a new invention",
+            "japanese": "特許"
+        },
+        {
+            "english": "chapter",
+            "example": "源氏物語の第1章 \n the first chapter of The Tale of Genji",
+            "japanese": "章"
+        },
+        {
+            "english": "Palace",
+            "example": "バッキンガム宮殿 \n Buckingham Palace",
+            "japanese": "宮殿, 大邸宅"
+        },
+        {
+            "english": "laundry",
+            "example": "洗濯をする \n do the laundry",
+            "japanese": "洗濯"
+        },
+        {
+            "english": "ward",
+            "example": "病棟の患者 \n patients in the ward",
+            "japanese": "病棟, (行政の)区"
+        },
+        {
+            "english": "epidemic",
+            "example": "エイズの世界的流行 \n the worldwide AIDS epidemic",
+            "japanese": "(悪いものの)流行, 伝染病"
+        },
+        {
+            "english": "equation",
+            "example": "難しい方程式を解く \n solve a difficult equation",
+            "japanese": "方程式"
+        },
+        {
+            "english": "archaeologist",
+            "example": "考古学者に発見された骨 \n bones found by an archaeologist",
+            "japanese": "考古学者"
+        },
+        {
+            "english": "corruption",
+            "example": "政治の腐敗 \n political corruption",
+            "japanese": "腐敗, 堕落"
+        }
+    ]
+}

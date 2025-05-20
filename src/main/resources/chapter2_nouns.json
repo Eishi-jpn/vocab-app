@@ -940,6 +940,376 @@
             "english": "fare",
             "example": "バスの運賃を払う \n pay the bus fare",
             "japanese": "運賃"
+        },
+        {
+            "english": "debt",
+            "example": "借金を返す \n pay the debt",
+            "japanese": "借金, 恩, 借り"
+        },
+        {
+            "english": "curriculum",
+            "example": "高校の教育課程 \n the high school curriculum",
+            "japanese": "教育課程"
+        },
+        {
+            "english": "component",
+            "example": "人体の構成要素 \n the components of the body",
+            "japanese": "構成要素, 部分, 成分"
+        },
+        {
+            "english": "wheat",
+            "example": "小麦とコーンを植える \n plant wheat and corn",
+            "japanese": "小麦"
+        },
+        {
+            "english": "usage",
+            "example": "現代英語の語法 \n modern English usage",
+            "japanese": "語法, 使用(法)"
+        },
+        {
+            "english": "garbage",
+            "example": "ゴミを出す \n take out the garbage",
+            "japanese": "ゴミ, 生ゴミ, がらくた"
+        },
+        {
+            "english": "famine",
+            "example": "アフリカのひどい飢饉 \n a terrible famine in Africa",
+            "japanese": "飢饉"
+        },
+        {
+            "english": "extinction",
+            "example": "絶滅の危機にある動物たち \n animals in danger of extinction",
+            "japanese": "絶滅"
+        },
+        {
+            "english": "purse",
+            "example": "財布からお金を取り出す \n take money out of the purse",
+            "japanese": "財布, ハンドバッグ"
+        },
+        {
+            "english": "folk",
+            "example": "イギリスの民族音楽 \n English folk music",
+            "japanese": "民族, 人々, 国民"
+        },
+        {
+            "english": "explosion",
+            "example": "人口爆発 \n the population explosion",
+            "japanese": "爆発"
+        },
+        {
+            "english": "portion",
+            "example": "給料の大部分 \n a large portion of your salary",
+            "japanese": "部分"
+        },
+        {
+            "english": "organism",
+            "example": "海洋生物 \n marine organisms",
+            "japanese": "生物, 微生物"
+        },
+        {
+            "english": "merchant",
+            "example": "ヴェニスの商人 \n The Merchant of Venice",
+            "japanese": "商人"
+        },
+        {
+            "english": "myth",
+            "example": "古代ギリシャの神話 \n ancient Greek myths",
+            "japanese": "神話"
+        },
+        {
+            "english": "priest",
+            "example": "教会の神父 \n a priest in the church",
+            "japanese": "神父, 牧師, 聖職者"
+        },
+        {
+            "english": "funeral",
+            "example": "結婚式と葬式 \n weddings and funerals",
+            "japanese": "葬式"
+        },
+        {
+            "english": "wildlife",
+            "example": "野生生物を保護する \n protect wildlife",
+            "japanese": "野生生物"
+        },
+        {
+            "english": "congress",
+            "example": "合衆国議会 \n the United States Congress",
+            "japanese": "議会"
+        },
+        {
+            "english": "bay",
+            "example": "東京湾に浮かぶ船 \n a boat in Tokyo bay",
+            "japanese": "湾"
+        },
+        {
+            "english": "penalty",
+            "example": "死刑 \n the death penalty",
+            "japanese": "刑, 刑罰, 罰金"
+        },
+        {
+            "english": "haritage",
+            "example": "日本の文化遺産 \n Japanese cultural heritage",
+            "japanese": "遺産, 伝統"
+        },
+        {
+            "english": "diversity",
+            "example": "アメリカの文化的多様性 \n American cultural diversity",
+            "japanese": "多様性"
+        },
+        {
+            "english": "thumb",
+            "example": "私の左手の親指 \n the thumb of my left hand",
+            "japanese": "親指"
+        },
+        {
+            "english": "geography",
+            "example": "歴史と地理 \n history and geography",
+            "japanese": "地理, 地形"
+        },
+        {
+            "english": "envelope",
+            "example": "ピンクの封筒に手紙を入れる \n put the letter in the pink enverope",
+            "japanese": "封筒"
+        },
+        {
+            "english": "discrimination",
+            "example": "女性に対する差別 \n discrimination against women",
+            "japanese": "差別"
+        },
+        {
+            "english": "virus",
+            "example": "エイズのウイルス \n the AIDS virus",
+            "japanese": "ウイルス"
+        },
+        {
+            "english": "statue",
+            "example": "自由の女神像 \n the Statue of Liberty",
+            "japanese": "像, 彫像"
+        },
+        {
+            "english": "athlete",
+            "example": "プロの運動選手 \n a professional athlete",
+            "japanese": "運動選手"
+        },
+        {
+            "english": "pioneer",
+            "example": "ロックンロールの先駆者 \n a rock'n'roll pioneer",
+            "japanese": "先駆者, 開拓者"
+        },
+        {
+            "english": "trait",
+            "example": "人格の特徴 \n personality traits",
+            "japanese": "特徴"
+        },
+        {
+            "english": "bond",
+            "example": "家族の強い絆 \n strong family bonds",
+            "japanese": "絆"
+        },
+        {
+            "english": "grocery",
+            "example": "食料品店に行く \n go to the grocery store",
+            "japanese": "食料品"
+        },
+        {
+            "english": "secretary",
+            "example": "彼の秘書の机 \n his secretary's desk",
+            "japanese": "秘書, 書記官, (各省の)長官"
+        },
+        {
+            "english": "dialect",
+            "example": "地元の方言を離す \n speak the local dialect",
+            "japanese": "方言"
+        },
+        {
+            "english": "astronomy",
+            "example": "ガリレオの天文学 \n Galileo's astronomy",
+            "japanese": "天文学"
+        },
+        {
+            "english": "youngster",
+            "example": "今日の子どもたち \n Today's youngsters",
+            "japanese": "子ども"
+        },
+        {
+            "english": "yard",
+            "example": "庭の木 \n a tree in the yard",
+            "japanese": "庭, ヤード"
+        },
+        {
+            "english": "finding",
+            "example": "その研究による発見 \n the findings of the study",
+            "japanese": "発見"
+        },
+        {
+            "english": "strategy",
+            "example": "イギリスの軍事戦略 \n British military strategy",
+            "japanese": "戦略, 作戦, 計画"
+        },
+        {
+            "english": "lung",
+            "example": "彼の心臓と肺 \n his heart and lungs",
+            "japanese": "肺"
+        },
+        {
+            "english": "opponent",
+            "example": "敵を倒す \n beat an opponent",
+            "japanese": "敵, (ゲームなどの)相手, 対抗者"
+        },
+        {
+            "english": "ritual",
+            "example": "宗教的な儀式 \n a religious ritual",
+            "japanese": "儀式"
+        },
+        {
+            "english": "outcome",
+            "example": "レースの結果 \n the outcome of the race",
+            "japanese": "結果, 成果"
+        },
+        {
+            "english": "conservation",
+            "example": "環境保護団体 \n conservation groups",
+            "japanese": "環境保護, (資源などの)節約"
+        },
+        {
+            "english": "mammal",
+            "example": "クジラなどの海の哺乳類 \n whales and other sea mammals",
+            "japanese": "哺乳類"
+        },
+        {
+            "english": "telescope",
+            "example": "NASAの宇宙望遠鏡 \n NASA's space telescope",
+            "japanese": "望遠鏡"
+        },
+        {
+            "english": "refugee",
+            "example": "パレスチナの難民キャンプ \n refugee camps in Palestine",
+            "japanese": "難民, 亡命者"
+        },
+        {
+            "english": "code",
+            "example": "服装規則を破る \n break the dress code",
+            "japanese": "規則, 規範"
+        },
+        {
+            "english": "flavor",
+            "example": "新鮮なフルーツの風味 \n the flavor of fresh fruit",
+            "japanese": "風味"
+        },
+        {
+            "english": "particle",
+            "example": "光の粒子 \n the particles of light",
+            "japanese": "粒子, 微粒子"
+        },
+        {
+            "english": "nursing",
+            "example": "24時間看護 \n 24-hour nursing",
+            "japanese": "看護"
+        },
+        {
+            "english": "suicide",
+            "example": "首吊り自殺をする \n commit suicide by hanging",
+            "japanese": "自殺"
+        },
+        {
+            "english": "habitat",
+            "example": "熊野自然生息地 \n the natural habitat of bears",
+            "japanese": "生息地"
+        },
+        {
+            "english": "bullying",
+            "example": "学校のいじめ \n bullying in schools",
+            "japanese": "いじめ"
+        },
+        {
+            "english": "dinosaur",
+            "example": "恐竜は絶滅した \n Dinosaurs died out",
+            "japanese": "恐竜"
+        },
+        {
+            "english": "council",
+            "example": "ニューヨーク市議会 \n the New York City Council",
+            "japanese": "議会, 会議"
+        },
+        {
+            "english": "gender",
+            "example": "年齢と性別 \n age and gender",
+            "japanese": "性別"
+        },
+        {
+            "english": "surgery",
+            "example": "心臓切開手術を受ける \n have open heart surgery",
+            "japanese": "手術, 外科"
+        },
+        {
+            "english": "innovation",
+            "example": "技術革新 \n technological innovation",
+            "japanese": "革新"
+        },
+        {
+            "english": "protein",
+            "example": "高タンパク質の食べ物 \n high-protein food",
+            "japanese": "タンパク質"
+        },
+        {
+            "english": "nutrition",
+            "example": "十分な睡眠と栄養 \n enough sleep and nutrition",
+            "japanese": "栄養, 栄養を取ること"
+        },
+        {
+            "english": "web",
+            "example": "クモの巣にかかる \n be caught in a spider's web",
+            "japanese": "巣, 網"
+        },
+        {
+            "english": "emission",
+            "example": "二酸化炭素の排出を減らす \n reduce carbon dioxide emissions",
+            "japanese": "排出"
+        },
+        {
+            "english": "ape",
+            "example": "猿と類人猿 \n monkeys and apes",
+            "japanese": "類人猿"
+        },
+        {
+            "english": "molecule",
+            "example": "一つのDNA分子 \n a single DNA molecule",
+            "japanese": "分子"
+        },
+        {
+            "english": "sweat",
+            "example": "汗のにおい \n the smell of sweat",
+            "japanese": "汗"
+        },
+        {
+            "english": "transplant",
+            "example": "心臓移植の手術 \n a heart transplant operation",
+            "japanese": "移植"
+        },
+        {
+            "english": "castle",
+            "example": "砂の城 \n a sand castle",
+            "japanese": "城"
+        },
+        {
+            "english": "cartoon",
+            "example": "人気マンガのキャラクター \n a popular cartoon character",
+            "japanese": "マンガ"
+        },
+        {
+            "english": "tip",
+            "example": "私の指の先 \n the tip of my finger",
+            "japanese": "先, 先端"
+        },
+        {
+            "english": "cattle",
+            "example": "羊と牛を育てる \n raise sheep and cattle",
+            "japanese": "牛"
+        },
+        {
+            "english": "density",
+            "example": "高い人口密度 \n high population density",
+            "japanese": "密度"
         }
     ]
 }
